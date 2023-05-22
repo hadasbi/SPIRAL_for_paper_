@@ -1,0 +1,43 @@
+{
+    "1": {
+        "proc": [],
+        "func": [],
+        "comp": [
+            "GO:0043209:myelin sheath (qval4.05E-1)"
+        ]
+    },
+    "2": {
+        "proc": [
+            "GO:0031328:positive regulation of cellular biosynthetic process (qval1E0)",
+            "GO:0009891:positive regulation of biosynthetic process (qval1E0)",
+            "GO:0019886:antigen processing and presentation of exogenous peptide antigen via MHC class II (qval1E0)"
+        ],
+        "func": [
+            "GO:0005515:protein binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0042613:MHC class II protein complex (qval5.31E-1)"
+        ]
+    },
+    "3": {
+        "proc": [
+            "GO:1902108:regulation of mitochondrial membrane permeability involved in apoptotic process (qval1E0)",
+            "GO:0046902:regulation of mitochondrial membrane permeability (qval1E0)",
+            "GO:0090559:regulation of membrane permeability (qval1E0)",
+            "GO:0048023:positive regulation of melanin biosynthetic process (qval1E0)",
+            "GO:0097345:mitochondrial outer membrane permeabilization (qval1E0)",
+            "GO:1900378:positive regulation of secondary metabolite biosynthetic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0003729:mRNA binding (qval2.65E-1)",
+            "GO:0017022:myosin binding (qval8.4E-1)",
+            "GO:0019003:GDP binding (qval7.88E-1)"
+        ],
+        "comp": []
+    },
+    "4": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    }
+}

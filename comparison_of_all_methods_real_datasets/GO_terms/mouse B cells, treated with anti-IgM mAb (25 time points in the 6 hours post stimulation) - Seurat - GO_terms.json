@@ -1,0 +1,36 @@
+{
+    "1": {
+        "proc": [
+            "GO:0032458:slow endocytic recycling (qval9.48E-1)",
+            "GO:0036010:protein localization to endosome (qval1E0)",
+            "GO:0097320:plasma membrane tubulation (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "2": {
+        "proc": [
+            "GO:0050432:catecholamine secretion (qval1E0)",
+            "GO:0048242:epinephrine secretion (qval1E0)",
+            "GO:0048241:epinephrine transport (qval1E0)"
+        ],
+        "func": [
+            "GO:0004366:glycerol-3-phosphate O-acyltransferase activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "3": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "4": {
+        "proc": [
+            "GO:0032458:slow endocytic recycling (qval1E0)",
+            "GO:0050432:catecholamine secretion (qval1E0)",
+            "GO:0048242:epinephrine secretion (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    }
+}

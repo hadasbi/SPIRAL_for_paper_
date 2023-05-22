@@ -1,0 +1,46 @@
+{
+    "1": {
+        "proc": [
+            "GO:0051641:cellular localization (qval8.96E-1)",
+            "GO:0016050:vesicle organization (qval6.83E-1)",
+            "GO:0008104:protein localization (qval5.78E-1)",
+            "GO:0033036:macromolecule localization (qval5.73E-1)",
+            "GO:0006886:intracellular protein transport (qval8.36E-1)",
+            "GO:0046907:intracellular transport (qval1E0)",
+            "GO:0034497:protein localization to phagophore assembly site (qval1E0)",
+            "GO:0042886:amide transport (qval9.82E-1)",
+            "GO:0016240:autophagosome membrane docking (qval8.77E-1)",
+            "GO:0015031:protein transport (qval9.59E-1)",
+            "GO:0071705:nitrogen compound transport (qval8.85E-1)",
+            "GO:0048524:positive regulation of viral process (qval9.34E-1)",
+            "GO:0015833:peptide transport (qval1E0)",
+            "GO:0043923:positive regulation by host of viral transcription (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0043227:membrane-bounded organelle (qval1.97E-2)",
+            "GO:0043231:intracellular membrane-bounded organelle (qval1.33E-2)",
+            "GO:0043229:intracellular organelle (qval1.5E-2)",
+            "GO:0005776:autophagosome (qval4.26E-2)",
+            "GO:0043226:organelle (qval3.68E-2)",
+            "GO:0031982:vesicle (qval1.38E-1)",
+            "GO:0031410:cytoplasmic vesicle (qval1.31E-1)",
+            "GO:0097708:intracellular vesicle (qval1.22E-1)"
+        ]
+    },
+    "48": {
+        "proc": [
+            "GO:0060215:primitive hemopoiesis (qval1E0)",
+            "GO:0018197:peptidyl-aspartic acid modification (qval1E0)"
+        ],
+        "func": [
+            "GO:0051059:NF-kappaB binding (qval7.39E-1)"
+        ],
+        "comp": [
+            "GO:0043229:intracellular organelle (qval2.15E-1)",
+            "GO:0043226:organelle (qval3.1E-1)",
+            "GO:0032783:ELL-EAF complex (qval5.11E-1)",
+            "GO:0005634:nucleus (qval3.9E-1)"
+        ]
+    }
+}

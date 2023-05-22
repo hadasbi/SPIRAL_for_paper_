@@ -1,0 +1,1422 @@
+{
+    "1": {
+        "proc": [
+            "GO:1902275:regulation of chromatin organization (qval1E0)",
+            "GO:0048522:positive regulation of cellular process (qval1E0)",
+            "GO:0050794:regulation of cellular process (qval1E0)",
+            "GO:0060177:regulation of angiotensin metabolic process (qval1E0)",
+            "GO:0031056:regulation of histone modification (qval1E0)"
+        ],
+        "func": [
+            "GO:0031711:bradykinin receptor binding (qval1E0)"
+        ],
+        "comp": []
+    },
+    "2": {
+        "proc": [
+            "GO:0035265:organ growth (qval1E0)",
+            "GO:0010762:regulation of fibroblast migration (qval1E0)",
+            "GO:0034330:cell junction organization (qval1E0)",
+            "GO:0044838:cell quiescence (qval1E0)",
+            "GO:0034332:adherens junction organization (qval1E0)"
+        ],
+        "func": [
+            "GO:0051721:protein phosphatase 2A binding (qval6.91E-2)",
+            "GO:0034713:type I transforming growth factor beta receptor binding (qval1E0)",
+            "GO:0005488:binding (qval9.22E-1)",
+            "GO:0005515:protein binding (qval7.44E-1)"
+        ],
+        "comp": [
+            "GO:0005815:microtubule organizing center (qval1E0)"
+        ]
+    },
+    "3": {
+        "proc": [
+            "GO:0036010:protein localization to endosome (qval1E0)"
+        ],
+        "func": [
+            "GO:0003712:transcription coregulator activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "4": {
+        "proc": [
+            "GO:0010506:regulation of autophagy (qval1E0)",
+            "GO:0071310:cellular response to organic substance (qval1E0)",
+            "GO:0008625:extrinsic apoptotic signaling pathway via death domain receptors (qval7.75E-1)",
+            "GO:0009791:post-embryonic development (qval5.92E-1)",
+            "GO:0030308:negative regulation of cell growth (qval5.43E-1)",
+            "GO:0070887:cellular response to chemical stimulus (qval1E0)",
+            "GO:0090063:positive regulation of microtubule nucleation (qval1E0)",
+            "GO:0051172:negative regulation of nitrogen compound metabolic process (qval1E0)",
+            "GO:0097191:extrinsic apoptotic signaling pathway (qval1E0)",
+            "GO:0030334:regulation of cell migration (qval1E0)",
+            "GO:0016310:phosphorylation (qval1E0)",
+            "GO:0044267:cellular protein metabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0019899:enzyme binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005737:cytoplasm (qval2.34E-1)"
+        ]
+    },
+    "5": {
+        "proc": [
+            "GO:0009791:post-embryonic development (qval1.94E-2)",
+            "GO:0006464:cellular protein modification process (qval1.11E-2)",
+            "GO:0036211:protein modification process (qval7.41E-3)",
+            "GO:0044267:cellular protein metabolic process (qval1.3E-2)",
+            "GO:0051128:regulation of cellular component organization (qval1.82E-2)",
+            "GO:0044260:cellular macromolecule metabolic process (qval2.37E-2)",
+            "GO:0043170:macromolecule metabolic process (qval4.21E-2)",
+            "GO:0043412:macromolecule modification (qval4.34E-2)",
+            "GO:0019538:protein metabolic process (qval5.16E-2)",
+            "GO:0048856:anatomical structure development (qval5.11E-2)",
+            "GO:0032879:regulation of localization (qval4.66E-2)",
+            "GO:0006996:organelle organization (qval4.87E-2)",
+            "GO:0051171:regulation of nitrogen compound metabolic process (qval4.54E-2)",
+            "GO:0055001:muscle cell development (qval4.74E-2)",
+            "GO:0051172:negative regulation of nitrogen compound metabolic process (qval4.44E-2)",
+            "GO:0031324:negative regulation of cellular metabolic process (qval4.59E-2)",
+            "GO:0070647:protein modification by small protein conjugation or removal (qval4.91E-2)",
+            "GO:0009892:negative regulation of metabolic process (qval5.18E-2)",
+            "GO:0048534:hematopoietic or lymphoid organ development (qval5.12E-2)",
+            "GO:0097435:supramolecular fiber organization (qval4.9E-2)",
+            "GO:0016567:protein ubiquitination (qval5.06E-2)",
+            "GO:0010605:negative regulation of macromolecule metabolic process (qval4.95E-2)",
+            "GO:0048747:muscle fiber development (qval5.45E-2)",
+            "GO:0051254:positive regulation of RNA metabolic process (qval5.59E-2)",
+            "GO:0031399:regulation of protein modification process (qval5.64E-2)",
+            "GO:0120183:positive regulation of focal adhesion disassembly (qval5.56E-2)",
+            "GO:0120182:regulation of focal adhesion disassembly (qval5.35E-2)",
+            "GO:0007015:actin filament organization (qval5.33E-2)",
+            "GO:0032446:protein modification by small protein conjugation (qval5.49E-2)",
+            "GO:0071840:cellular component organization or biogenesis (qval5.66E-2)",
+            "GO:0080090:regulation of primary metabolic process (qval5.55E-2)",
+            "GO:0032269:negative regulation of cellular protein metabolic process (qval5.38E-2)",
+            "GO:0045935:positive regulation of nucleobase-containing compound metabolic process (qval5.56E-2)",
+            "GO:0016043:cellular component organization (qval5.47E-2)",
+            "GO:0051248:negative regulation of protein metabolic process (qval5.38E-2)",
+            "GO:0051640:organelle localization (qval6.24E-2)",
+            "GO:0048593:camera-type eye morphogenesis (qval6.13E-2)",
+            "GO:0055002:striated muscle cell development (qval6.27E-2)",
+            "GO:0008344:adult locomotory behavior (qval6.32E-2)",
+            "GO:0031345:negative regulation of cell projection organization (qval6.7E-2)",
+            "GO:0031331:positive regulation of cellular catabolic process (qval7.16E-2)",
+            "GO:0009893:positive regulation of metabolic process (qval7.29E-2)",
+            "GO:0048015:phosphatidylinositol-mediated signaling (qval7.59E-2)",
+            "GO:0010604:positive regulation of macromolecule metabolic process (qval7.43E-2)",
+            "GO:0010638:positive regulation of organelle organization (qval7.44E-2)",
+            "GO:0001568:blood vessel development (qval7.86E-2)",
+            "GO:0000209:protein polyubiquitination (qval8.42E-2)",
+            "GO:0031325:positive regulation of cellular metabolic process (qval8.56E-2)",
+            "GO:0048592:eye morphogenesis (qval8.52E-2)",
+            "GO:0070936:protein K48-linked ubiquitination (qval8.35E-2)",
+            "GO:0060255:regulation of macromolecule metabolic process (qval8.31E-2)",
+            "GO:1902532:negative regulation of intracellular signal transduction (qval8.99E-2)",
+            "GO:0033043:regulation of organelle organization (qval9.01E-2)",
+            "GO:0035019:somatic stem cell population maintenance (qval9.14E-2)",
+            "GO:0006807:nitrogen compound metabolic process (qval8.98E-2)",
+            "GO:0051130:positive regulation of cellular component organization (qval8.91E-2)",
+            "GO:0048017:inositol lipid-mediated signaling (qval8.93E-2)",
+            "GO:0048522:positive regulation of cellular process (qval8.94E-2)",
+            "GO:0009896:positive regulation of catabolic process (qval9.56E-2)",
+            "GO:0060716:labyrinthine layer blood vessel development (qval9.58E-2)",
+            "GO:0034770:histone H4-K20 methylation (qval1.02E-1)",
+            "GO:0001976:neurological system process involved in regulation of systemic arterial blood pressure (qval1E-1)",
+            "GO:0048468:cell development (qval1.05E-1)",
+            "GO:0051173:positive regulation of nitrogen compound metabolic process (qval1.03E-1)",
+            "GO:1903391:regulation of adherens junction organization (qval1.04E-1)",
+            "GO:0032502:developmental process (qval1.02E-1)",
+            "GO:0032268:regulation of cellular protein metabolic process (qval1.02E-1)",
+            "GO:1900182:positive regulation of protein localization to nucleus (qval1.07E-1)",
+            "GO:0033151:V(D)J recombination (qval1.06E-1)",
+            "GO:0048523:negative regulation of cellular process (qval1.05E-1)",
+            "GO:0016239:positive regulation of macroautophagy (qval1.09E-1)",
+            "GO:0031323:regulation of cellular metabolic process (qval1.08E-1)",
+            "GO:1903373:positive regulation of endoplasmic reticulum tubular network organization (qval1.07E-1)",
+            "GO:0060674:placenta blood vessel development (qval1.1E-1)",
+            "GO:0048513:animal organ development (qval1.17E-1)",
+            "GO:0010508:positive regulation of autophagy (qval1.16E-1)",
+            "GO:0045197:establishment or maintenance of epithelial cell apical/basal polarity (qval1.16E-1)",
+            "GO:0045893:positive regulation of transcription, DNA-templated (qval1.15E-1)",
+            "GO:1903508:positive regulation of nucleic acid-templated transcription (qval1.14E-1)",
+            "GO:1902680:positive regulation of RNA biosynthetic process (qval1.15E-1)",
+            "GO:0060325:face morphogenesis (qval1.26E-1)",
+            "GO:2000193:positive regulation of fatty acid transport (qval1.28E-1)",
+            "GO:0021702:cerebellar Purkinje cell differentiation (qval1.26E-1)",
+            "GO:0031329:regulation of cellular catabolic process (qval1.28E-1)",
+            "GO:0010977:negative regulation of neuron projection development (qval1.4E-1)",
+            "GO:0051246:regulation of protein metabolic process (qval1.41E-1)",
+            "GO:0006915:apoptotic process (qval1.48E-1)",
+            "GO:0009987:cellular process (qval1.5E-1)",
+            "GO:0090596:sensory organ morphogenesis (qval1.54E-1)",
+            "GO:1900180:regulation of protein localization to nucleus (qval1.52E-1)",
+            "GO:0035556:intracellular signal transduction (qval1.52E-1)",
+            "GO:0007163:establishment or maintenance of cell polarity (qval1.57E-1)",
+            "GO:0071801:regulation of podosome assembly (qval1.57E-1)",
+            "GO:0006379:mRNA cleavage (qval1.55E-1)"
+        ],
+        "func": [
+            "GO:0005488:binding (qval2.29E-4)",
+            "GO:0140096:catalytic activity, acting on a protein (qval1.12E-3)",
+            "GO:0005515:protein binding (qval1.08E-3)",
+            "GO:0019899:enzyme binding (qval8.52E-2)",
+            "GO:0003779:actin binding (qval7.07E-2)",
+            "GO:0051015:actin filament binding (qval7.29E-2)",
+            "GO:0004674:protein serine/threonine kinase activity (qval1.1E-1)",
+            "GO:0008092:cytoskeletal protein binding (qval1.5E-1)",
+            "GO:0019900:kinase binding (qval1.97E-1)",
+            "GO:0019901:protein kinase binding (qval2.06E-1)",
+            "GO:0045159:myosin II binding (qval2.83E-1)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval6.04E-6)",
+            "GO:0005737:cytoplasm (qval3.27E-3)",
+            "GO:0005829:cytosol (qval3.08E-3)",
+            "GO:0043229:intracellular organelle (qval3.38E-3)",
+            "GO:0044428:nuclear part (qval4.96E-3)",
+            "GO:0043226:organelle (qval4.51E-3)",
+            "GO:0044446:intracellular organelle part (qval4.32E-3)",
+            "GO:0030027:lamellipodium (qval9.92E-3)",
+            "GO:0044422:organelle part (qval8.95E-3)",
+            "GO:0005634:nucleus (qval1.67E-2)",
+            "GO:0098862:cluster of actin-based cell projections (qval6.6E-2)",
+            "GO:0005654:nucleoplasm (qval7.87E-2)",
+            "GO:0044444:cytoplasmic part (qval7.5E-2)",
+            "GO:0044464:cell part (qval8.95E-2)",
+            "GO:0032991:protein-containing complex (qval9.27E-2)",
+            "GO:0005925:focal adhesion (qval1.11E-1)",
+            "GO:0032432:actin filament bundle (qval1.11E-1)"
+        ]
+    },
+    "6": {
+        "proc": [
+            "GO:0014733:regulation of skeletal muscle adaptation (qval1E0)"
+        ],
+        "func": [
+            "GO:0051734:ATP-dependent polynucleotide kinase activity (qval1E0)",
+            "GO:0051733:polydeoxyribonucleotide kinase activity (qval9.04E-1)",
+            "GO:0046404:ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity (qval6.03E-1)",
+            "GO:0051731:polynucleotide 5'-hydroxyl-kinase activity (qval8.97E-1)",
+            "GO:0005488:binding (qval7.25E-1)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval9.6E-1)"
+        ]
+    },
+    "7": {
+        "proc": [
+            "GO:0016071:mRNA metabolic process (qval2.14E-3)",
+            "GO:0006397:mRNA processing (qval1.57E-2)",
+            "GO:0008380:RNA splicing (qval1.27E-1)",
+            "GO:0006396:RNA processing (qval1.04E-1)",
+            "GO:1901888:regulation of cell junction assembly (qval1.48E-1)",
+            "GO:0016070:RNA metabolic process (qval2.79E-1)",
+            "GO:0048536:spleen development (qval2.43E-1)",
+            "GO:1903311:regulation of mRNA metabolic process (qval6.65E-1)",
+            "GO:0090304:nucleic acid metabolic process (qval5.93E-1)",
+            "GO:1900078:positive regulation of cellular response to insulin stimulus (qval9.02E-1)",
+            "GO:1904237:positive regulation of substrate-dependent cell migration, cell attachment to substrate (qval9.28E-1)",
+            "GO:1904235:regulation of substrate-dependent cell migration, cell attachment to substrate (qval8.5E-1)",
+            "GO:2001205:negative regulation of osteoclast development (qval7.85E-1)",
+            "GO:0007161:calcium-independent cell-matrix adhesion (qval7.29E-1)"
+        ],
+        "func": [
+            "GO:0004485:methylcrotonoyl-CoA carboxylase activity (qval1E0)",
+            "GO:0090624:endoribonuclease activity, cleaving miRNA-paired mRNA (qval5E-1)"
+        ],
+        "comp": [
+            "GO:0071013:catalytic step 2 spliceosome (qval1.95E-1)",
+            "GO:1905202:methylcrotonoyl-CoA carboxylase complex (qval2.21E-1)",
+            "GO:0016607:nuclear speck (qval2.84E-1)"
+        ]
+    },
+    "8": {
+        "proc": [
+            "GO:0071108:protein K48-linked deubiquitination (qval5.65E-1)",
+            "GO:0043931:ossification involved in bone maturation (qval3.17E-1)",
+            "GO:0097237:cellular response to toxic substance (qval3.7E-1)",
+            "GO:0070301:cellular response to hydrogen peroxide (qval3E-1)",
+            "GO:0034614:cellular response to reactive oxygen species (qval3.88E-1)",
+            "GO:0097241:hematopoietic stem cell migration to bone marrow (qval1E0)",
+            "GO:0050774:negative regulation of dendrite morphogenesis (qval1E0)",
+            "GO:0098609:cell-cell adhesion (qval1E0)",
+            "GO:0042542:response to hydrogen peroxide (qval1E0)",
+            "GO:0071947:protein deubiquitination involved in ubiquitin-dependent protein catabolic process (qval1E0)",
+            "GO:0007155:cell adhesion (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "9": {
+        "proc": [
+            "GO:0007420:brain development (qval1.48E-1)",
+            "GO:0048522:positive regulation of cellular process (qval7.71E-2)",
+            "GO:0065007:biological regulation (qval5.58E-2)",
+            "GO:0048518:positive regulation of biological process (qval7.69E-2)",
+            "GO:0050789:regulation of biological process (qval6.63E-2)",
+            "GO:0032502:developmental process (qval7.34E-2)",
+            "GO:0007264:small GTPase mediated signal transduction (qval6.91E-2)",
+            "GO:0007265:Ras protein signal transduction (qval7.79E-2)",
+            "GO:0031323:regulation of cellular metabolic process (qval7.73E-2)",
+            "GO:0010629:negative regulation of gene expression (qval8.31E-2)",
+            "GO:0050794:regulation of cellular process (qval8.29E-2)",
+            "GO:0045944:positive regulation of transcription by RNA polymerase II (qval9.75E-2)",
+            "GO:0048856:anatomical structure development (qval1.22E-1)",
+            "GO:0009892:negative regulation of metabolic process (qval1.3E-1)",
+            "GO:0060255:regulation of macromolecule metabolic process (qval1.28E-1)",
+            "GO:0048519:negative regulation of biological process (qval1.35E-1)",
+            "GO:0031324:negative regulation of cellular metabolic process (qval1.39E-1)",
+            "GO:0019222:regulation of metabolic process (qval1.34E-1)",
+            "GO:0045893:positive regulation of transcription, DNA-templated (qval1.93E-1)",
+            "GO:1903508:positive regulation of nucleic acid-templated transcription (qval1.83E-1)",
+            "GO:0021675:nerve development (qval1.76E-1)",
+            "GO:1902680:positive regulation of RNA biosynthetic process (qval1.7E-1)",
+            "GO:0048523:negative regulation of cellular process (qval1.65E-1)",
+            "GO:0051254:positive regulation of RNA metabolic process (qval1.6E-1)",
+            "GO:0051253:negative regulation of RNA metabolic process (qval1.56E-1)",
+            "GO:0051252:regulation of RNA metabolic process (qval1.51E-1)",
+            "GO:1903391:regulation of adherens junction organization (qval1.7E-1)",
+            "GO:1901888:regulation of cell junction assembly (qval1.7E-1)",
+            "GO:0045596:negative regulation of cell differentiation (qval1.67E-1)",
+            "GO:0043547:positive regulation of GTPase activity (qval1.75E-1)",
+            "GO:0032501:multicellular organismal process (qval1.7E-1)",
+            "GO:0035556:intracellular signal transduction (qval1.68E-1)",
+            "GO:0009653:anatomical structure morphogenesis (qval1.64E-1)",
+            "GO:0045892:negative regulation of transcription, DNA-templated (qval1.92E-1)",
+            "GO:1903507:negative regulation of nucleic acid-templated transcription (qval2.02E-1)",
+            "GO:1902679:negative regulation of RNA biosynthetic process (qval2E-1)",
+            "GO:0031325:positive regulation of cellular metabolic process (qval1.99E-1)",
+            "GO:0045934:negative regulation of nucleobase-containing compound metabolic process (qval1.93E-1)",
+            "GO:0060284:regulation of cell development (qval2.28E-1)",
+            "GO:0072202:cell differentiation involved in metanephros development (qval2.26E-1)",
+            "GO:0010605:negative regulation of macromolecule metabolic process (qval2.27E-1)",
+            "GO:0051171:regulation of nitrogen compound metabolic process (qval2.29E-1)",
+            "GO:0007266:Rho protein signal transduction (qval2.43E-1)",
+            "GO:0061005:cell differentiation involved in kidney development (qval2.92E-1)",
+            "GO:0010721:negative regulation of cell development (qval3E-1)",
+            "GO:0051893:regulation of focal adhesion assembly (qval3.04E-1)",
+            "GO:0090109:regulation of cell-substrate junction assembly (qval2.97E-1)",
+            "GO:0031327:negative regulation of cellular biosynthetic process (qval2.95E-1)",
+            "GO:0010604:positive regulation of macromolecule metabolic process (qval2.94E-1)"
+        ],
+        "func": [
+            "GO:0005515:protein binding (qval1.8E-2)",
+            "GO:0099181:structural constituent of presynapse (qval5.64E-1)",
+            "GO:0005488:binding (qval9.36E-1)",
+            "GO:0003712:transcription coregulator activity (qval7.06E-1)",
+            "GO:0003714:transcription corepressor activity (qval8.43E-1)"
+        ],
+        "comp": [
+            "GO:0043229:intracellular organelle (qval2.76E-2)",
+            "GO:0043226:organelle (qval4.39E-2)",
+            "GO:0070603:SWI/SNF superfamily-type complex (qval3.88E-2)",
+            "GO:0017053:transcriptional repressor complex (qval4.86E-2)",
+            "GO:0044424:intracellular part (qval4.98E-2)",
+            "GO:0032432:actin filament bundle (qval7.35E-2)",
+            "GO:0043227:membrane-bounded organelle (qval6.46E-2)",
+            "GO:0042641:actomyosin (qval6E-2)",
+            "GO:0044428:nuclear part (qval6.35E-2)",
+            "GO:1904949:ATPase complex (qval6.63E-2)",
+            "GO:0005634:nucleus (qval9.12E-2)",
+            "GO:0001725:stress fiber (qval1.09E-1)",
+            "GO:0097517:contractile actin filament bundle (qval1.01E-1)",
+            "GO:0005654:nucleoplasm (qval9.56E-2)",
+            "GO:0043231:intracellular membrane-bounded organelle (qval1.09E-1)"
+        ]
+    },
+    "10": {
+        "proc": [
+            "GO:0021772:olfactory bulb development (qval7.54E-1)",
+            "GO:0032292:peripheral nervous system axon ensheathment (qval4.97E-1)",
+            "GO:0022011:myelination in peripheral nervous system (qval3.31E-1)",
+            "GO:0035701:hematopoietic stem cell migration (qval5.83E-1)",
+            "GO:0042552:myelination (qval1E0)",
+            "GO:0008366:axon ensheathment (qval9.99E-1)",
+            "GO:0007272:ensheathment of neurons (qval8.57E-1)",
+            "GO:0036444:calcium import into the mitochondrion (qval8.32E-1)",
+            "GO:0007179:transforming growth factor beta receptor signaling pathway (qval9.12E-1)",
+            "GO:0003279:cardiac septum development (qval1E0)"
+        ],
+        "func": [
+            "GO:0008443:phosphofructokinase activity (qval4.29E-1)"
+        ],
+        "comp": [
+            "GO:0097730:non-motile cilium (qval1E0)",
+            "GO:0098588:bounding membrane of organelle (qval6.07E-1)",
+            "GO:0044430:cytoskeletal part (qval5.93E-1)"
+        ]
+    },
+    "11": {
+        "proc": [
+            "GO:0048522:positive regulation of cellular process (qval4.8E-2)",
+            "GO:0065009:regulation of molecular function (qval1.23E-1)",
+            "GO:0048518:positive regulation of biological process (qval1.97E-1)",
+            "GO:0050790:regulation of catalytic activity (qval2.17E-1)",
+            "GO:0031325:positive regulation of cellular metabolic process (qval6.49E-1)",
+            "GO:0016310:phosphorylation (qval5.47E-1)",
+            "GO:1901219:regulation of cardiac chamber morphogenesis (qval4.96E-1)",
+            "GO:1901220:negative regulation of cardiac chamber morphogenesis (qval4.34E-1)",
+            "GO:0019220:regulation of phosphate metabolic process (qval3.87E-1)",
+            "GO:0010762:regulation of fibroblast migration (qval3.53E-1)",
+            "GO:0051174:regulation of phosphorus metabolic process (qval3.21E-1)",
+            "GO:0010563:negative regulation of phosphorus metabolic process (qval4.06E-1)",
+            "GO:0045936:negative regulation of phosphate metabolic process (qval3.75E-1)",
+            "GO:0009893:positive regulation of metabolic process (qval3.84E-1)",
+            "GO:0051130:positive regulation of cellular component organization (qval3.67E-1)",
+            "GO:0044089:positive regulation of cellular component biogenesis (qval3.46E-1)",
+            "GO:0007219:Notch signaling pathway (qval3.3E-1)",
+            "GO:0031323:regulation of cellular metabolic process (qval3.27E-1)",
+            "GO:0045893:positive regulation of transcription, DNA-templated (qval3.14E-1)",
+            "GO:1903508:positive regulation of nucleic acid-templated transcription (qval2.98E-1)",
+            "GO:1902680:positive regulation of RNA biosynthetic process (qval2.89E-1)",
+            "GO:0050678:regulation of epithelial cell proliferation (qval2.77E-1)",
+            "GO:0035556:intracellular signal transduction (qval3.23E-1)",
+            "GO:0048519:negative regulation of biological process (qval3.14E-1)",
+            "GO:0065007:biological regulation (qval3.46E-1)",
+            "GO:0071322:cellular response to carbohydrate stimulus (qval3.45E-1)",
+            "GO:0042325:regulation of phosphorylation (qval3.37E-1)",
+            "GO:0080090:regulation of primary metabolic process (qval3.31E-1)",
+            "GO:0051254:positive regulation of RNA metabolic process (qval3.24E-1)",
+            "GO:0019222:regulation of metabolic process (qval3.21E-1)",
+            "GO:0043697:cell dedifferentiation (qval3.32E-1)",
+            "GO:0043696:dedifferentiation (qval3.22E-1)",
+            "GO:0044838:cell quiescence (qval3.12E-1)",
+            "GO:0010837:regulation of keratinocyte proliferation (qval3.14E-1)",
+            "GO:0048856:anatomical structure development (qval3.23E-1)",
+            "GO:0007264:small GTPase mediated signal transduction (qval3.19E-1)",
+            "GO:0006793:phosphorus metabolic process (qval3.16E-1)",
+            "GO:0048523:negative regulation of cellular process (qval3.26E-1)",
+            "GO:0045944:positive regulation of transcription by RNA polymerase II (qval3.21E-1)",
+            "GO:0045935:positive regulation of nucleobase-containing compound metabolic process (qval3.2E-1)",
+            "GO:0042326:negative regulation of phosphorylation (qval3.37E-1)",
+            "GO:0010604:positive regulation of macromolecule metabolic process (qval3.29E-1)",
+            "GO:0050789:regulation of biological process (qval3.23E-1)"
+        ],
+        "func": [
+            "GO:0019899:enzyme binding (qval1E0)",
+            "GO:0003712:transcription coregulator activity (qval1E0)",
+            "GO:0140110:transcription regulator activity (qval1E0)",
+            "GO:0019902:phosphatase binding (qval9.79E-1)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval1.79E-2)",
+            "GO:0044464:cell part (qval8.93E-2)",
+            "GO:0032420:stereocilium (qval8.66E-2)",
+            "GO:0005737:cytoplasm (qval1.31E-1)",
+            "GO:0043229:intracellular organelle (qval1.24E-1)",
+            "GO:0097458:neuron part (qval1.44E-1)",
+            "GO:0120025:plasma membrane bounded cell projection (qval1.57E-1)",
+            "GO:0002081:outer acrosomal membrane (qval1.65E-1)"
+        ]
+    },
+    "12": {
+        "proc": [
+            "GO:0007010:cytoskeleton organization (qval1.14E-2)",
+            "GO:0030036:actin cytoskeleton organization (qval4.06E-1)",
+            "GO:0030029:actin filament-based process (qval2.93E-1)",
+            "GO:0008360:regulation of cell shape (qval6.48E-1)",
+            "GO:0006996:organelle organization (qval5.18E-1)",
+            "GO:0010762:regulation of fibroblast migration (qval1E0)"
+        ],
+        "func": [
+            "GO:0019902:phosphatase binding (qval4.66E-1)",
+            "GO:0004438:phosphatidylinositol-3-phosphatase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044233:Mitochondria-associated ER Membrane (qval2.23E-3)",
+            "GO:0044232:organelle membrane contact site (qval1.09E-2)",
+            "GO:0044424:intracellular part (qval2.33E-2)",
+            "GO:0043229:intracellular organelle (qval4.15E-2)",
+            "GO:0043226:organelle (qval5.34E-2)",
+            "GO:0044464:cell part (qval7.09E-2)"
+        ]
+    },
+    "13": {
+        "proc": [
+            "GO:0045596:negative regulation of cell differentiation (qval1E0)"
+        ],
+        "func": [
+            "GO:0032266:phosphatidylinositol-3-phosphate binding (qval1E0)",
+            "GO:0030165:PDZ domain binding (qval1E0)"
+        ],
+        "comp": []
+    },
+    "14": {
+        "proc": [
+            "GO:0034331:cell junction maintenance (qval8.91E-1)",
+            "GO:0034334:adherens junction maintenance (qval1E0)",
+            "GO:0007084:mitotic nuclear envelope reassembly (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0032420:stereocilium (qval1.24E-1)",
+            "GO:0016604:nuclear body (qval1.49E-1)",
+            "GO:0098862:cluster of actin-based cell projections (qval2.66E-1)",
+            "GO:0098858:actin-based cell projection (qval2.05E-1)",
+            "GO:0030027:lamellipodium (qval2.19E-1)",
+            "GO:0044451:nucleoplasm part (qval2.55E-1)"
+        ]
+    },
+    "15": {
+        "proc": [
+            "GO:0070647:protein modification by small protein conjugation or removal (qval1E0)",
+            "GO:0046794:transport of virus (qval1E0)",
+            "GO:0035148:tube formation (qval1E0)",
+            "GO:0097435:supramolecular fiber organization (qval1E0)",
+            "GO:0006464:cellular protein modification process (qval1E0)",
+            "GO:0036211:protein modification process (qval9.72E-1)",
+            "GO:0048646:anatomical structure formation involved in morphogenesis (qval8.37E-1)",
+            "GO:0044267:cellular protein metabolic process (qval8.2E-1)",
+            "GO:0051128:regulation of cellular component organization (qval7.64E-1)",
+            "GO:0043412:macromolecule modification (qval1E0)",
+            "GO:0060606:tube closure (qval1E0)",
+            "GO:0070836:caveola assembly (qval9.73E-1)",
+            "GO:0051290:protein heterotetramerization (qval9.69E-1)"
+        ],
+        "func": [
+            "GO:0140096:catalytic activity, acting on a protein (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005737:cytoplasm (qval9.01E-1)",
+            "GO:0000220:vacuolar proton-transporting V-type ATPase, V0 domain (qval7.5E-1)"
+        ]
+    },
+    "16": {
+        "proc": [
+            "GO:0043170:macromolecule metabolic process (qval6.37E-1)",
+            "GO:0019538:protein metabolic process (qval3.87E-1)",
+            "GO:0006464:cellular protein modification process (qval4.36E-1)",
+            "GO:0036211:protein modification process (qval3.27E-1)",
+            "GO:0044267:cellular protein metabolic process (qval2.81E-1)",
+            "GO:0043412:macromolecule modification (qval4.02E-1)",
+            "GO:0044260:cellular macromolecule metabolic process (qval3.77E-1)",
+            "GO:1901564:organonitrogen compound metabolic process (qval4.6E-1)",
+            "GO:0018193:peptidyl-amino acid modification (qval4.36E-1)",
+            "GO:0006807:nitrogen compound metabolic process (qval4.09E-1)",
+            "GO:0016570:histone modification (qval4.01E-1)",
+            "GO:0016569:covalent chromatin modification (qval4.61E-1)",
+            "GO:0018279:protein N-linked glycosylation via asparagine (qval6.8E-1)",
+            "GO:0018196:peptidyl-asparagine modification (qval8.41E-1)",
+            "GO:0019255:glucose 1-phosphate metabolic process (qval8.6E-1)",
+            "GO:0035574:histone H4-K20 demethylation (qval8.06E-1)"
+        ],
+        "func": [
+            "GO:0035575:histone demethylase activity (H4-K20 specific) (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval1.78E-1)",
+            "GO:0044422:organelle part (qval1.34E-1)",
+            "GO:0044446:intracellular organelle part (qval9.67E-2)",
+            "GO:0005794:Golgi apparatus (qval2.45E-1)",
+            "GO:0043229:intracellular organelle (qval2.01E-1)"
+        ]
+    },
+    "17": {
+        "proc": [
+            "GO:0032879:regulation of localization (qval3.54E-1)",
+            "GO:0007166:cell surface receptor signaling pathway (qval1.9E-1)",
+            "GO:0048518:positive regulation of biological process (qval3.14E-1)",
+            "GO:0007165:signal transduction (qval2.78E-1)",
+            "GO:0048522:positive regulation of cellular process (qval2.27E-1)",
+            "GO:0120032:regulation of plasma membrane bounded cell projection assembly (qval3.25E-1)",
+            "GO:0060491:regulation of cell projection assembly (qval3.04E-1)",
+            "GO:0040017:positive regulation of locomotion (qval7.33E-1)",
+            "GO:0007219:Notch signaling pathway (qval6.67E-1)",
+            "GO:0030335:positive regulation of cell migration (qval7.75E-1)",
+            "GO:0033628:regulation of cell adhesion mediated by integrin (qval8.72E-1)",
+            "GO:2000147:positive regulation of cell motility (qval8.35E-1)",
+            "GO:0060411:cardiac septum morphogenesis (qval8.04E-1)",
+            "GO:0120034:positive regulation of plasma membrane bounded cell projection assembly (qval9E-1)",
+            "GO:0051272:positive regulation of cellular component movement (qval9.08E-1)",
+            "GO:0071560:cellular response to transforming growth factor beta stimulus (qval8.99E-1)"
+        ],
+        "func": [
+            "GO:0070851:growth factor receptor binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0002080:acrosomal membrane (qval6.68E-1)",
+            "GO:0002081:outer acrosomal membrane (qval3.45E-1)"
+        ]
+    },
+    "18": {
+        "proc": [
+            "GO:0120031:plasma membrane bounded cell projection assembly (qval1E0)",
+            "GO:0030031:cell projection assembly (qval1E0)",
+            "GO:0045657:positive regulation of monocyte differentiation (qval1E0)",
+            "GO:0071374:cellular response to parathyroid hormone stimulus (qval1E0)"
+        ],
+        "func": [
+            "GO:0019904:protein domain specific binding (qval1.47E-1)",
+            "GO:0071535:RING-like zinc finger domain binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval1.99E-3)",
+            "GO:0044464:cell part (qval1.16E-1)",
+            "GO:0043229:intracellular organelle (qval1.23E-1)",
+            "GO:0043226:organelle (qval1.79E-1)",
+            "GO:0044444:cytoplasmic part (qval2.38E-1)"
+        ]
+    },
+    "19": {
+        "proc": [
+            "GO:0098780:response to mitochondrial depolarisation (qval2.94E-2)",
+            "GO:0015014:heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process (qval3.21E-1)",
+            "GO:0000423:mitophagy (qval5.05E-1)",
+            "GO:0009314:response to radiation (qval7.15E-1)",
+            "GO:2000786:positive regulation of autophagosome assembly (qval5.86E-1)",
+            "GO:0006895:Golgi to endosome transport (qval4.88E-1)",
+            "GO:0098789:pre-mRNA cleavage required for polyadenylation (qval4.18E-1)",
+            "GO:0098787:mRNA cleavage involved in mRNA processing (qval4.84E-1)",
+            "GO:1903793:positive regulation of anion transport (qval4.52E-1)",
+            "GO:0044090:positive regulation of vacuole organization (qval5E-1)",
+            "GO:1904590:negative regulation of protein import (qval5.73E-1)",
+            "GO:0042308:negative regulation of protein import into nucleus (qval5.26E-1)",
+            "GO:0007628:adult walking behavior (qval5.61E-1)",
+            "GO:0090659:walking behavior (qval5.83E-1)",
+            "GO:0035148:tube formation (qval5.77E-1)",
+            "GO:0032292:peripheral nervous system axon ensheathment (qval5.97E-1)",
+            "GO:0006379:mRNA cleavage (qval5.62E-1)",
+            "GO:0022011:myelination in peripheral nervous system (qval5.3E-1)",
+            "GO:0051130:positive regulation of cellular component organization (qval7.05E-1)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0097632:extrinsic component of phagophore assembly site membrane (qval2.25E-1)",
+            "GO:0097629:extrinsic component of omegasome membrane (qval3.35E-1)",
+            "GO:0005847:mRNA cleavage and polyadenylation specificity factor complex (qval5.86E-1)"
+        ]
+    },
+    "20": {
+        "proc": [
+            "GO:0048522:positive regulation of cellular process (qval8.38E-1)",
+            "GO:0034198:cellular response to amino acid starvation (qval9.84E-1)",
+            "GO:0048518:positive regulation of biological process (qval1E0)",
+            "GO:1990928:response to amino acid starvation (qval8.14E-1)",
+            "GO:0031325:positive regulation of cellular metabolic process (qval6.69E-1)",
+            "GO:0019222:regulation of metabolic process (qval7.1E-1)",
+            "GO:0010813:neuropeptide catabolic process (qval7.25E-1)",
+            "GO:0050794:regulation of cellular process (qval6.68E-1)",
+            "GO:0009893:positive regulation of metabolic process (qval8.75E-1)",
+            "GO:0007265:Ras protein signal transduction (qval7.98E-1)",
+            "GO:0036010:protein localization to endosome (qval9.28E-1)",
+            "GO:0031323:regulation of cellular metabolic process (qval9.17E-1)",
+            "GO:0050777:negative regulation of immune response (qval1E0)",
+            "GO:0007264:small GTPase mediated signal transduction (qval9.89E-1)",
+            "GO:0043031:negative regulation of macrophage activation (qval9.23E-1)"
+        ],
+        "func": [
+            "GO:0004021:L-alanine:2-oxoglutarate aminotransferase activity (qval1E0)",
+            "GO:0047635:alanine-oxo-acid transaminase activity (qval7.39E-1)"
+        ],
+        "comp": [
+            "GO:0044444:cytoplasmic part (qval8.54E-1)",
+            "GO:0043229:intracellular organelle (qval4.76E-1)",
+            "GO:0043226:organelle (qval4.6E-1)",
+            "GO:0044424:intracellular part (qval4.39E-1)",
+            "GO:0005654:nucleoplasm (qval3.53E-1)"
+        ]
+    },
+    "21": {
+        "proc": [
+            "GO:2001222:regulation of neuron migration (qval1E0)",
+            "GO:0090557:establishment of endothelial intestinal barrier (qval1E0)",
+            "GO:0060218:hematopoietic stem cell differentiation (qval1E0)",
+            "GO:2000060:positive regulation of ubiquitin-dependent protein catabolic process (qval1E0)",
+            "GO:2000481:positive regulation of cAMP-dependent protein kinase activity (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0043229:intracellular organelle (qval1E0)",
+            "GO:0044291:cell-cell contact zone (qval8.06E-1)"
+        ]
+    },
+    "22": {
+        "proc": [
+            "GO:0009892:negative regulation of metabolic process (qval7.76E-1)",
+            "GO:0034330:cell junction organization (qval4.46E-1)",
+            "GO:0060255:regulation of macromolecule metabolic process (qval7.22E-1)",
+            "GO:0010629:negative regulation of gene expression (qval6.99E-1)",
+            "GO:0050794:regulation of cellular process (qval7.44E-1)",
+            "GO:0030307:positive regulation of cell growth (qval7.07E-1)",
+            "GO:0045944:positive regulation of transcription by RNA polymerase II (qval6.78E-1)",
+            "GO:0016477:cell migration (qval6.59E-1)",
+            "GO:0009890:negative regulation of biosynthetic process (qval5.98E-1)",
+            "GO:0097355:protein localization to heterochromatin (qval5.81E-1)",
+            "GO:0031324:negative regulation of cellular metabolic process (qval5.57E-1)",
+            "GO:0045934:negative regulation of nucleobase-containing compound metabolic process (qval5.25E-1)",
+            "GO:0031327:negative regulation of cellular biosynthetic process (qval4.85E-1)",
+            "GO:0034332:adherens junction organization (qval4.53E-1)",
+            "GO:0019222:regulation of metabolic process (qval4.48E-1)",
+            "GO:0010605:negative regulation of macromolecule metabolic process (qval4.74E-1)",
+            "GO:0045217:cell-cell junction maintenance (qval5.19E-1)",
+            "GO:0010558:negative regulation of macromolecule biosynthetic process (qval5.22E-1)",
+            "GO:0048522:positive regulation of cellular process (qval5.58E-1)",
+            "GO:0071840:cellular component organization or biogenesis (qval5.51E-1)",
+            "GO:0051254:positive regulation of RNA metabolic process (qval5.77E-1)",
+            "GO:0048537:mucosal-associated lymphoid tissue development (qval5.65E-1)",
+            "GO:0048541:Peyer's patch development (qval5.4E-1)",
+            "GO:1903507:negative regulation of nucleic acid-templated transcription (qval5.23E-1)",
+            "GO:1902679:negative regulation of RNA biosynthetic process (qval5.11E-1)",
+            "GO:0030278:regulation of ossification (qval4.97E-1)",
+            "GO:0006464:cellular protein modification process (qval4.83E-1)",
+            "GO:0036211:protein modification process (qval4.66E-1)",
+            "GO:0048814:regulation of dendrite morphogenesis (qval4.61E-1)",
+            "GO:0051253:negative regulation of RNA metabolic process (qval4.57E-1)",
+            "GO:0016043:cellular component organization (qval4.53E-1)",
+            "GO:0044267:cellular protein metabolic process (qval4.43E-1)",
+            "GO:0051252:regulation of RNA metabolic process (qval4.35E-1)",
+            "GO:2000113:negative regulation of cellular macromolecule biosynthetic process (qval4.3E-1)"
+        ],
+        "func": [
+            "GO:0005515:protein binding (qval2.68E-1)",
+            "GO:0005488:binding (qval5.97E-1)",
+            "GO:0005085:guanyl-nucleotide exchange factor activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval7.1E-2)",
+            "GO:0044428:nuclear part (qval7.43E-2)",
+            "GO:0070161:anchoring junction (qval7.99E-2)",
+            "GO:0044446:intracellular organelle part (qval1.12E-1)",
+            "GO:0005925:focal adhesion (qval9.2E-2)",
+            "GO:0005924:cell-substrate adherens junction (qval9.59E-2)",
+            "GO:0044422:organelle part (qval8.33E-2)",
+            "GO:0005912:adherens junction (qval7.38E-2)",
+            "GO:0030055:cell-substrate junction (qval8.82E-2)",
+            "GO:0030027:lamellipodium (qval1.03E-1)",
+            "GO:0005654:nucleoplasm (qval9.59E-2)",
+            "GO:0043229:intracellular organelle (qval1.57E-1)"
+        ]
+    },
+    "23": {
+        "proc": [
+            "GO:0033137:negative regulation of peptidyl-serine phosphorylation (qval6.82E-2)",
+            "GO:0019538:protein metabolic process (qval6.92E-2)",
+            "GO:0044267:cellular protein metabolic process (qval6.53E-2)",
+            "GO:1901564:organonitrogen compound metabolic process (qval6.9E-2)",
+            "GO:0070201:regulation of establishment of protein localization (qval6.92E-2)",
+            "GO:0006464:cellular protein modification process (qval5.95E-2)",
+            "GO:0036211:protein modification process (qval5.1E-2)",
+            "GO:0051224:negative regulation of protein transport (qval6.68E-2)",
+            "GO:0051049:regulation of transport (qval8.45E-2)",
+            "GO:0051223:regulation of protein transport (qval7.8E-2)",
+            "GO:1904950:negative regulation of establishment of protein localization (qval7.39E-2)",
+            "GO:0032879:regulation of localization (qval7.3E-2)",
+            "GO:0044093:positive regulation of molecular function (qval9.7E-2)",
+            "GO:0035556:intracellular signal transduction (qval1.07E-1)",
+            "GO:0090087:regulation of peptide transport (qval1.16E-1)",
+            "GO:0051345:positive regulation of hydrolase activity (qval1.1E-1)",
+            "GO:0033135:regulation of peptidyl-serine phosphorylation (qval1.25E-1)",
+            "GO:0051130:positive regulation of cellular component organization (qval1.21E-1)",
+            "GO:0060341:regulation of cellular localization (qval1.16E-1)",
+            "GO:0060122:inner ear receptor cell stereocilium organization (qval1.14E-1)",
+            "GO:0051172:negative regulation of nitrogen compound metabolic process (qval1.35E-1)",
+            "GO:0045934:negative regulation of nucleobase-containing compound metabolic process (qval1.39E-1)",
+            "GO:0031324:negative regulation of cellular metabolic process (qval1.35E-1)",
+            "GO:0051128:regulation of cellular component organization (qval1.38E-1)",
+            "GO:0043170:macromolecule metabolic process (qval1.33E-1)",
+            "GO:0065009:regulation of molecular function (qval1.61E-1)",
+            "GO:0070979:protein K11-linked ubiquitination (qval1.56E-1)",
+            "GO:0006807:nitrogen compound metabolic process (qval1.55E-1)",
+            "GO:0043412:macromolecule modification (qval1.5E-1)",
+            "GO:0061087:positive regulation of histone H3-K27 methylation (qval1.48E-1)",
+            "GO:0070936:protein K48-linked ubiquitination (qval1.48E-1)",
+            "GO:0050790:regulation of catalytic activity (qval1.47E-1)",
+            "GO:0051336:regulation of hydrolase activity (qval1.99E-1)",
+            "GO:0043085:positive regulation of catalytic activity (qval1.97E-1)",
+            "GO:0046676:negative regulation of insulin secretion (qval1.95E-1)",
+            "GO:0045995:regulation of embryonic development (qval1.9E-1)",
+            "GO:0032386:regulation of intracellular transport (qval1.96E-1)",
+            "GO:0048523:negative regulation of cellular process (qval2.04E-1)",
+            "GO:0009892:negative regulation of metabolic process (qval2.03E-1)",
+            "GO:0044260:cellular macromolecule metabolic process (qval2.31E-1)",
+            "GO:1901219:regulation of cardiac chamber morphogenesis (qval2.29E-1)",
+            "GO:1901220:negative regulation of cardiac chamber morphogenesis (qval2.23E-1)",
+            "GO:0060088:auditory receptor cell stereocilium organization (qval2.51E-1)",
+            "GO:0010605:negative regulation of macromolecule metabolic process (qval2.51E-1)",
+            "GO:1901565:organonitrogen compound catabolic process (qval2.53E-1)",
+            "GO:0050793:regulation of developmental process (qval2.52E-1)",
+            "GO:0044237:cellular metabolic process (qval2.9E-1)",
+            "GO:0051253:negative regulation of RNA metabolic process (qval2.97E-1)",
+            "GO:0090278:negative regulation of peptide hormone secretion (qval2.99E-1)"
+        ],
+        "func": [
+            "GO:0140096:catalytic activity, acting on a protein (qval1.83E-1)",
+            "GO:0004485:methylcrotonoyl-CoA carboxylase activity (qval1E0)",
+            "GO:0019899:enzyme binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0032420:stereocilium (qval2.31E-3)",
+            "GO:0044424:intracellular part (qval2.39E-2)",
+            "GO:0032432:actin filament bundle (qval1.38E-1)",
+            "GO:0005794:Golgi apparatus (qval2.28E-1)",
+            "GO:1905202:methylcrotonoyl-CoA carboxylase complex (qval2.41E-1)",
+            "GO:0098858:actin-based cell projection (qval2.1E-1)",
+            "GO:0043229:intracellular organelle (qval2.2E-1)"
+        ]
+    },
+    "24": {
+        "proc": [
+            "GO:0051641:cellular localization (qval6.13E-1)",
+            "GO:0033036:macromolecule localization (qval1E0)",
+            "GO:0036444:calcium import into the mitochondrion (qval1E0)",
+            "GO:0051179:localization (qval1E0)",
+            "GO:0008104:protein localization (qval1E0)",
+            "GO:0098876:vesicle-mediated transport to the plasma membrane (qval1E0)",
+            "GO:0051649:establishment of localization in cell (qval1E0)",
+            "GO:0015833:peptide transport (qval1E0)",
+            "GO:0045184:establishment of protein localization (qval1E0)"
+        ],
+        "func": [
+            "GO:0046923:ER retention sequence binding (qval1E0)",
+            "GO:0005046:KDEL sequence binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0043227:membrane-bounded organelle (qval8.09E-1)",
+            "GO:0000139:Golgi membrane (qval4.76E-1)",
+            "GO:0043229:intracellular organelle (qval4.16E-1)"
+        ]
+    },
+    "25": {
+        "proc": [
+            "GO:0051128:regulation of cellular component organization (qval1E0)",
+            "GO:0050789:regulation of biological process (qval1E0)",
+            "GO:0065007:biological regulation (qval1E0)",
+            "GO:0030278:regulation of ossification (qval1E0)",
+            "GO:0048518:positive regulation of biological process (qval1E0)",
+            "GO:0045778:positive regulation of ossification (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0017053:transcriptional repressor complex (qval8.65E-1)",
+            "GO:0032421:stereocilium bundle (qval4.65E-1)",
+            "GO:1990604:IRE1-TRAF2-ASK1 complex (qval3.42E-1)",
+            "GO:0032432:actin filament bundle (qval4.02E-1)",
+            "GO:0042641:actomyosin (qval3.43E-1)",
+            "GO:0032420:stereocilium (qval3.09E-1)"
+        ]
+    },
+    "26": {
+        "proc": [
+            "GO:0032885:regulation of polysaccharide biosynthetic process (qval1E0)"
+        ],
+        "func": [
+            "GO:1904047:S-adenosyl-L-methionine binding (qval1E0)"
+        ],
+        "comp": []
+    },
+    "27": {
+        "proc": [
+            "GO:1902299:pre-replicative complex assembly involved in cell cycle DNA replication (qval1E0)",
+            "GO:0036388:pre-replicative complex assembly (qval1E0)",
+            "GO:0006267:pre-replicative complex assembly involved in nuclear cell cycle DNA replication (qval1E0)",
+            "GO:0097435:supramolecular fiber organization (qval8.36E-1)",
+            "GO:0097111:endoplasmic reticulum-Golgi intermediate compartment organization (qval7.36E-1)",
+            "GO:0061181:regulation of chondrocyte development (qval6.14E-1)",
+            "GO:1901888:regulation of cell junction assembly (qval8.91E-1)",
+            "GO:0051649:establishment of localization in cell (qval8.68E-1)",
+            "GO:0046907:intracellular transport (qval8.77E-1)",
+            "GO:0043697:cell dedifferentiation (qval1E0)",
+            "GO:0043696:dedifferentiation (qval9.94E-1)",
+            "GO:0051125:regulation of actin nucleation (qval9.92E-1)",
+            "GO:0016197:endosomal transport (qval9.42E-1)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0044422:organelle part (qval2.68E-3)",
+            "GO:0044446:intracellular organelle part (qval3.54E-3)",
+            "GO:0043229:intracellular organelle (qval9.9E-3)",
+            "GO:0044428:nuclear part (qval1.71E-2)",
+            "GO:0043226:organelle (qval2.8E-2)",
+            "GO:0030027:lamellipodium (qval2.74E-2)",
+            "GO:0044424:intracellular part (qval4.23E-2)",
+            "GO:0044464:cell part (qval3.86E-2)",
+            "GO:0043232:intracellular non-membrane-bounded organelle (qval7.86E-2)",
+            "GO:0043228:non-membrane-bounded organelle (qval8.57E-2)",
+            "GO:0043227:membrane-bounded organelle (qval8.92E-2)",
+            "GO:0005654:nucleoplasm (qval1.11E-1)"
+        ]
+    },
+    "28": {
+        "proc": [
+            "GO:0009791:post-embryonic development (qval1E0)",
+            "GO:0006996:organelle organization (qval1E0)",
+            "GO:1902466:positive regulation of histone H3-K27 trimethylation (qval1E0)",
+            "GO:1902464:regulation of histone H3-K27 trimethylation (qval9.65E-1)",
+            "GO:0089700:protein kinase D signaling (qval1E0)",
+            "GO:0033132:negative regulation of glucokinase activity (qval1E0)",
+            "GO:1903300:negative regulation of hexokinase activity (qval1E0)",
+            "GO:0002792:negative regulation of peptide secretion (qval1E0)"
+        ],
+        "func": [
+            "GO:0019899:enzyme binding (qval1E0)",
+            "GO:0005488:binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0097635:extrinsic component of autophagosome membrane (qval4.96E-1)",
+            "GO:0043025:neuronal cell body (qval4.72E-1)",
+            "GO:0005737:cytoplasm (qval5.05E-1)"
+        ]
+    },
+    "29": {
+        "proc": [
+            "GO:0097355:protein localization to heterochromatin (qval1E0)",
+            "GO:0060914:heart formation (qval1E0)"
+        ],
+        "func": [
+            "GO:0005488:binding (qval1.56E-1)",
+            "GO:0051734:ATP-dependent polynucleotide kinase activity (qval1E0)",
+            "GO:0051733:polydeoxyribonucleotide kinase activity (qval1E0)",
+            "GO:0046404:ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity (qval9.3E-1)"
+        ],
+        "comp": [
+            "GO:0043229:intracellular organelle (qval1.12E-3)",
+            "GO:0043226:organelle (qval7.24E-4)",
+            "GO:0043227:membrane-bounded organelle (qval1.85E-3)",
+            "GO:0005634:nucleus (qval2.41E-2)",
+            "GO:0044424:intracellular part (qval8.53E-2)",
+            "GO:0043231:intracellular membrane-bounded organelle (qval8.29E-2)"
+        ]
+    },
+    "30": {
+        "proc": [
+            "GO:0033137:negative regulation of peptidyl-serine phosphorylation (qval1E0)",
+            "GO:1902437:positive regulation of male mating behavior (qval1E0)",
+            "GO:1902435:regulation of male mating behavior (qval1E0)",
+            "GO:0045216:cell-cell junction organization (qval1E0)"
+        ],
+        "func": [
+            "GO:0106006:microtubule cortical anchor activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval4.07E-2)",
+            "GO:0043229:intracellular organelle (qval2.71E-1)",
+            "GO:0032420:stereocilium (qval2.75E-1)",
+            "GO:0043226:organelle (qval3.59E-1)",
+            "GO:0044446:intracellular organelle part (qval3.4E-1)"
+        ]
+    },
+    "31": {
+        "proc": [
+            "GO:0019538:protein metabolic process (qval5.98E-2)",
+            "GO:0045657:positive regulation of monocyte differentiation (qval1.04E-1)",
+            "GO:1901564:organonitrogen compound metabolic process (qval8.68E-2)",
+            "GO:0051246:regulation of protein metabolic process (qval8.24E-2)",
+            "GO:0044267:cellular protein metabolic process (qval1.41E-1)",
+            "GO:0006807:nitrogen compound metabolic process (qval1.52E-1)",
+            "GO:0043170:macromolecule metabolic process (qval1.31E-1)",
+            "GO:0071704:organic substance metabolic process (qval2.31E-1)",
+            "GO:0044238:primary metabolic process (qval2.06E-1)",
+            "GO:0006464:cellular protein modification process (qval2.1E-1)",
+            "GO:0036211:protein modification process (qval1.91E-1)",
+            "GO:0044237:cellular metabolic process (qval1.96E-1)",
+            "GO:0008152:metabolic process (qval2.04E-1)",
+            "GO:0045655:regulation of monocyte differentiation (qval1.9E-1)",
+            "GO:0032268:regulation of cellular protein metabolic process (qval2E-1)",
+            "GO:0044260:cellular macromolecule metabolic process (qval2.09E-1)",
+            "GO:0043412:macromolecule modification (qval2.76E-1)",
+            "GO:0048008:platelet-derived growth factor receptor signaling pathway (qval2.69E-1)",
+            "GO:0009987:cellular process (qval2.77E-1)",
+            "GO:0009057:macromolecule catabolic process (qval3.61E-1)",
+            "GO:0035624:receptor transactivation (qval4.63E-1)",
+            "GO:0060325:face morphogenesis (qval6.15E-1)",
+            "GO:0035264:multicellular organism growth (qval5.99E-1)",
+            "GO:0014904:myotube cell development (qval6.07E-1)"
+        ],
+        "func": [
+            "GO:0140096:catalytic activity, acting on a protein (qval1.8E-1)",
+            "GO:0019777:Atg12 transferase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044444:cytoplasmic part (qval5.6E-2)",
+            "GO:0005829:cytosol (qval5.28E-2)",
+            "GO:0044424:intracellular part (qval6.19E-2)"
+        ]
+    },
+    "32": {
+        "proc": [
+            "GO:0097749:membrane tubulation (qval1.97E-1)",
+            "GO:0097750:endosome membrane tubulation (qval1E0)",
+            "GO:1901888:regulation of cell junction assembly (qval1E0)"
+        ],
+        "func": [
+            "GO:0019904:protein domain specific binding (qval7.77E-1)",
+            "GO:0000210:NAD+ diphosphatase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044422:organelle part (qval8.33E-1)",
+            "GO:0044446:intracellular organelle part (qval5.54E-1)",
+            "GO:0014704:intercalated disc (qval4.29E-1)"
+        ]
+    },
+    "33": {
+        "proc": [
+            "GO:0030278:regulation of ossification (qval7.21E-2)",
+            "GO:0071840:cellular component organization or biogenesis (qval6E-1)",
+            "GO:0016043:cellular component organization (qval5.03E-1)",
+            "GO:0031214:biomineral tissue development (qval5.12E-1)",
+            "GO:0032878:regulation of establishment or maintenance of cell polarity (qval4.27E-1)",
+            "GO:0032989:cellular component morphogenesis (qval3.75E-1)",
+            "GO:0042476:odontogenesis (qval3.28E-1)",
+            "GO:0048252:lauric acid metabolic process (qval3.17E-1)",
+            "GO:0060059:embryonic retina morphogenesis in camera-type eye (qval2.82E-1)",
+            "GO:0032801:receptor catabolic process (qval3.13E-1)",
+            "GO:0042475:odontogenesis of dentin-containing tooth (qval2.95E-1)",
+            "GO:0033043:regulation of organelle organization (qval2.87E-1)",
+            "GO:0051128:regulation of cellular component organization (qval3.25E-1)",
+            "GO:0045778:positive regulation of ossification (qval3.52E-1)",
+            "GO:0006139:nucleobase-containing compound metabolic process (qval3.78E-1)",
+            "GO:0061316:canonical Wnt signaling pathway involved in heart development (qval4.01E-1)",
+            "GO:0061324:canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation (qval3.77E-1)",
+            "GO:0014010:Schwann cell proliferation (qval3.56E-1)",
+            "GO:0060066:oviduct development (qval3.37E-1)",
+            "GO:0051489:regulation of filopodium assembly (qval3.82E-1)",
+            "GO:0043491:protein kinase B signaling (qval3.96E-1)",
+            "GO:0006351:transcription, DNA-templated (qval3.99E-1)",
+            "GO:0097659:nucleic acid-templated transcription (qval3.82E-1)",
+            "GO:0070166:enamel mineralization (qval4.24E-1)",
+            "GO:0050435:amyloid-beta metabolic process (qval4.09E-1)",
+            "GO:2000114:regulation of establishment of cell polarity (qval3.94E-1)",
+            "GO:0034641:cellular nitrogen compound metabolic process (qval4.12E-1)",
+            "GO:1903020:positive regulation of glycoprotein metabolic process (qval4.44E-1)",
+            "GO:0051130:positive regulation of cellular component organization (qval4.33E-1)",
+            "GO:0030029:actin filament-based process (qval4.86E-1)"
+        ],
+        "func": [
+            "GO:0018685:alkane 1-monooxygenase activity (qval7.39E-1)",
+            "GO:0019901:protein kinase binding (qval6.26E-1)",
+            "GO:0016713:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen (qval6.69E-1)",
+            "GO:0019900:kinase binding (qval7.83E-1)",
+            "GO:0140110:transcription regulator activity (qval7.8E-1)"
+        ],
+        "comp": [
+            "GO:0032433:filopodium tip (qval6.78E-1)",
+            "GO:0044448:cell cortex part (qval6.28E-1)",
+            "GO:0016607:nuclear speck (qval6.19E-1)"
+        ]
+    },
+    "34": {
+        "proc": [
+            "GO:0045785:positive regulation of cell adhesion (qval1E0)",
+            "GO:0050870:positive regulation of T cell activation (qval1E0)",
+            "GO:0022409:positive regulation of cell-cell adhesion (qval1E0)",
+            "GO:0051251:positive regulation of lymphocyte activation (qval1E0)"
+        ],
+        "func": [
+            "GO:0071253:connexin binding (qval1E0)"
+        ],
+        "comp": []
+    },
+    "35": {
+        "proc": [
+            "GO:0033151:V(D)J recombination (qval4.24E-1)",
+            "GO:0046324:regulation of glucose import (qval1E0)",
+            "GO:0050435:amyloid-beta metabolic process (qval9.52E-1)",
+            "GO:0042692:muscle cell differentiation (qval7.55E-1)",
+            "GO:0045944:positive regulation of transcription by RNA polymerase II (qval1E0)",
+            "GO:0010827:regulation of glucose transmembrane transport (qval1E0)",
+            "GO:0051146:striated muscle cell differentiation (qval1E0)",
+            "GO:2001228:regulation of response to gamma radiation (qval1E0)",
+            "GO:0042987:amyloid precursor protein catabolic process (qval1E0)",
+            "GO:0031324:negative regulation of cellular metabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0008934:inositol monophosphate 1-phosphatase activity (qval9.67E-2)",
+            "GO:0052833:inositol monophosphate 4-phosphatase activity (qval4.83E-2)",
+            "GO:0052832:inositol monophosphate 3-phosphatase activity (qval3.22E-2)",
+            "GO:0052834:inositol monophosphate phosphatase activity (qval2.42E-2)",
+            "GO:0005515:protein binding (qval6.3E-2)",
+            "GO:0005085:guanyl-nucleotide exchange factor activity (qval3.69E-1)",
+            "GO:0004677:DNA-dependent protein kinase activity (qval4.9E-1)",
+            "GO:0031403:lithium ion binding (qval4.29E-1)",
+            "GO:0019899:enzyme binding (qval3.98E-1)"
+        ],
+        "comp": [
+            "GO:0044422:organelle part (qval2.59E-1)",
+            "GO:0098862:cluster of actin-based cell projections (qval2.2E-1)",
+            "GO:0044446:intracellular organelle part (qval2.34E-1)",
+            "GO:0043219:lateral loop (qval3.43E-1)"
+        ]
+    },
+    "36": {
+        "proc": [
+            "GO:0072243:metanephric nephron epithelium development (qval1E0)",
+            "GO:0008380:RNA splicing (qval1E0)",
+            "GO:0072207:metanephric epithelium development (qval1E0)",
+            "GO:0016071:mRNA metabolic process (qval1E0)",
+            "GO:0051101:regulation of DNA binding (qval1E0)",
+            "GO:0006397:mRNA processing (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0032421:stereocilium bundle (qval4.19E-2)",
+            "GO:0044545:NSL complex (qval1.05E-1)"
+        ]
+    },
+    "37": {
+        "proc": [
+            "GO:0046498:S-adenosylhomocysteine metabolic process (qval1E0)",
+            "GO:0034334:adherens junction maintenance (qval1E0)",
+            "GO:0045218:zonula adherens maintenance (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0070603:SWI/SNF superfamily-type complex (qval8.34E-1)",
+            "GO:0017053:transcriptional repressor complex (qval6.11E-1)",
+            "GO:0090568:nuclear transcriptional repressor complex (qval5.47E-1)"
+        ]
+    },
+    "38": {
+        "proc": [
+            "GO:0044267:cellular protein metabolic process (qval8.28E-2)",
+            "GO:0000209:protein polyubiquitination (qval6.99E-2)",
+            "GO:0006464:cellular protein modification process (qval8.61E-2)",
+            "GO:0036211:protein modification process (qval6.46E-2)",
+            "GO:0043412:macromolecule modification (qval7.26E-2)",
+            "GO:0043170:macromolecule metabolic process (qval8.63E-2)",
+            "GO:0044237:cellular metabolic process (qval8.96E-2)",
+            "GO:0051254:positive regulation of RNA metabolic process (qval2.16E-1)",
+            "GO:0019538:protein metabolic process (qval2.32E-1)",
+            "GO:0006807:nitrogen compound metabolic process (qval2.35E-1)",
+            "GO:0008152:metabolic process (qval2.64E-1)",
+            "GO:0044260:cellular macromolecule metabolic process (qval2.51E-1)",
+            "GO:1901564:organonitrogen compound metabolic process (qval2.52E-1)",
+            "GO:1902914:regulation of protein polyubiquitination (qval2.38E-1)",
+            "GO:0045893:positive regulation of transcription, DNA-templated (qval2.29E-1)",
+            "GO:1903508:positive regulation of nucleic acid-templated transcription (qval2.15E-1)",
+            "GO:1902680:positive regulation of RNA biosynthetic process (qval2.08E-1)",
+            "GO:0051252:regulation of RNA metabolic process (qval2.83E-1)",
+            "GO:0000122:negative regulation of transcription by RNA polymerase II (qval2.81E-1)",
+            "GO:0010629:negative regulation of gene expression (qval2.73E-1)",
+            "GO:0010468:regulation of gene expression (qval2.7E-1)",
+            "GO:0044238:primary metabolic process (qval2.64E-1)",
+            "GO:0032446:protein modification by small protein conjugation (qval2.68E-1)",
+            "GO:0016567:protein ubiquitination (qval2.77E-1)",
+            "GO:0060255:regulation of macromolecule metabolic process (qval3.45E-1)",
+            "GO:0071704:organic substance metabolic process (qval3.45E-1)",
+            "GO:0007507:heart development (qval3.64E-1)",
+            "GO:0051253:negative regulation of RNA metabolic process (qval3.68E-1)",
+            "GO:0042552:myelination (qval3.9E-1)",
+            "GO:0051173:positive regulation of nitrogen compound metabolic process (qval3.8E-1)",
+            "GO:0010604:positive regulation of macromolecule metabolic process (qval3.96E-1)",
+            "GO:0045935:positive regulation of nucleobase-containing compound metabolic process (qval3.88E-1)",
+            "GO:0031325:positive regulation of cellular metabolic process (qval4.04E-1)",
+            "GO:0008366:axon ensheathment (qval4.16E-1)",
+            "GO:0007272:ensheathment of neurons (qval4.04E-1)",
+            "GO:0018193:peptidyl-amino acid modification (qval4.08E-1)"
+        ],
+        "func": [
+            "GO:0019899:enzyme binding (qval2.75E-2)",
+            "GO:0019894:kinesin binding (qval7.43E-2)",
+            "GO:0044390:ubiquitin-like protein conjugating enzyme binding (qval1.09E-1)",
+            "GO:0031624:ubiquitin conjugating enzyme binding (qval1.79E-1)",
+            "GO:0005515:protein binding (qval3.86E-1)",
+            "GO:0003712:transcription coregulator activity (qval3.94E-1)",
+            "GO:0003713:transcription coactivator activity (qval5.39E-1)",
+            "GO:0008013:beta-catenin binding (qval4.85E-1)"
+        ],
+        "comp": [
+            "GO:0044428:nuclear part (qval1.96E-3)",
+            "GO:0044446:intracellular organelle part (qval5.2E-3)",
+            "GO:0044424:intracellular part (qval3.49E-3)",
+            "GO:0044422:organelle part (qval5.4E-3)",
+            "GO:0005654:nucleoplasm (qval3.51E-2)",
+            "GO:0098862:cluster of actin-based cell projections (qval3.38E-2)",
+            "GO:0005634:nucleus (qval5.64E-2)",
+            "GO:1990234:transferase complex (qval5.85E-2)",
+            "GO:0043229:intracellular organelle (qval8.2E-2)"
+        ]
+    },
+    "39": {
+        "proc": [
+            "GO:0070972:protein localization to endoplasmic reticulum (qval1.53E-1)",
+            "GO:0006614:SRP-dependent cotranslational protein targeting to membrane (qval2.35E-1)",
+            "GO:0006613:cotranslational protein targeting to membrane (qval2.76E-1)",
+            "GO:0071025:RNA surveillance (qval7.62E-1)",
+            "GO:0050709:negative regulation of protein secretion (qval9.28E-1)",
+            "GO:0045047:protein targeting to ER (qval8.97E-1)",
+            "GO:0070936:protein K48-linked ubiquitination (qval9.01E-1)",
+            "GO:0001825:blastocyst formation (qval8.23E-1)",
+            "GO:0002792:negative regulation of peptide secretion (qval8.59E-1)",
+            "GO:0035574:histone H4-K20 demethylation (qval1E0)",
+            "GO:0072599:establishment of protein localization to endoplasmic reticulum (qval1E0)",
+            "GO:0022604:regulation of cell morphogenesis (qval1E0)"
+        ],
+        "func": [
+            "GO:0032183:SUMO binding (qval9.19E-2)",
+            "GO:0035575:histone demethylase activity (H4-K20 specific) (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044446:intracellular organelle part (qval2.85E-2)",
+            "GO:0044428:nuclear part (qval1.82E-2)",
+            "GO:0044422:organelle part (qval1.6E-2)",
+            "GO:0044424:intracellular part (qval1.4E-2)",
+            "GO:0043229:intracellular organelle (qval1.97E-1)"
+        ]
+    },
+    "40": {
+        "proc": [
+            "GO:0050794:regulation of cellular process (qval1E0)",
+            "GO:0048519:negative regulation of biological process (qval1E0)",
+            "GO:0030866:cortical actin cytoskeleton organization (qval1E0)",
+            "GO:0031585:regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity (qval1E0)",
+            "GO:0048523:negative regulation of cellular process (qval1E0)",
+            "GO:0016241:regulation of macroautophagy (qval1E0)",
+            "GO:0097111:endoplasmic reticulum-Golgi intermediate compartment organization (qval1E0)",
+            "GO:0010506:regulation of autophagy (qval1E0)",
+            "GO:0030865:cortical cytoskeleton organization (qval1E0)",
+            "GO:0036289:peptidyl-serine autophosphorylation (qval1E0)",
+            "GO:0051660:establishment of centrosome localization (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0044424:intracellular part (qval7.93E-2)",
+            "GO:0032991:protein-containing complex (qval1.98E-1)",
+            "GO:0035145:exon-exon junction complex (qval4.55E-1)"
+        ]
+    },
+    "41": {
+        "proc": [],
+        "func": [
+            "GO:0019901:protein kinase binding (qval5.17E-1)",
+            "GO:0019900:kinase binding (qval1E0)",
+            "GO:0019899:enzyme binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044424:intracellular part (qval8.98E-1)",
+            "GO:0016607:nuclear speck (qval5.14E-1)"
+        ]
+    },
+    "42": {
+        "proc": [
+            "GO:0042058:regulation of epidermal growth factor receptor signaling pathway (qval1.13E-1)",
+            "GO:1901184:regulation of ERBB signaling pathway (qval9.76E-2)",
+            "GO:0065009:regulation of molecular function (qval2.43E-1)",
+            "GO:0030278:regulation of ossification (qval2.06E-1)",
+            "GO:0034330:cell junction organization (qval1.76E-1)",
+            "GO:0050790:regulation of catalytic activity (qval1.54E-1)",
+            "GO:0048522:positive regulation of cellular process (qval1.58E-1)",
+            "GO:0045893:positive regulation of transcription, DNA-templated (qval2.53E-1)",
+            "GO:1903508:positive regulation of nucleic acid-templated transcription (qval2.25E-1)",
+            "GO:1902680:positive regulation of RNA biosynthetic process (qval2.06E-1)",
+            "GO:1902414:protein localization to cell junction (qval1.89E-1)",
+            "GO:0044093:positive regulation of molecular function (qval2.18E-1)",
+            "GO:0045667:regulation of osteoblast differentiation (qval2.27E-1)",
+            "GO:0042059:negative regulation of epidermal growth factor receptor signaling pathway (qval2.26E-1)",
+            "GO:0045944:positive regulation of transcription by RNA polymerase II (qval2.27E-1)",
+            "GO:1901185:negative regulation of ERBB signaling pathway (qval2.41E-1)",
+            "GO:0051254:positive regulation of RNA metabolic process (qval2.84E-1)",
+            "GO:0043549:regulation of kinase activity (qval2.68E-1)",
+            "GO:1903725:regulation of phospholipid metabolic process (qval3.83E-1)",
+            "GO:0003017:lymph circulation (qval3.79E-1)",
+            "GO:0031325:positive regulation of cellular metabolic process (qval3.68E-1)",
+            "GO:0045778:positive regulation of ossification (qval3.92E-1)",
+            "GO:0045599:negative regulation of fat cell differentiation (qval4.13E-1)",
+            "GO:0009893:positive regulation of metabolic process (qval4.11E-1)",
+            "GO:0030335:positive regulation of cell migration (qval4.18E-1)",
+            "GO:1901888:regulation of cell junction assembly (qval4.21E-1)",
+            "GO:0009891:positive regulation of biosynthetic process (qval4.09E-1)",
+            "GO:0070848:response to growth factor (qval4.2E-1)",
+            "GO:0048518:positive regulation of biological process (qval4.42E-1)",
+            "GO:0051549:positive regulation of keratinocyte migration (qval4.34E-1)",
+            "GO:0046578:regulation of Ras protein signal transduction (qval4.34E-1)",
+            "GO:0034332:adherens junction organization (qval4.36E-1)",
+            "GO:0010604:positive regulation of macromolecule metabolic process (qval4.25E-1)",
+            "GO:0030029:actin filament-based process (qval4.19E-1)",
+            "GO:2000147:positive regulation of cell motility (qval4.2E-1)"
+        ],
+        "func": [
+            "GO:0005515:protein binding (qval1E0)",
+            "GO:0005154:epidermal growth factor receptor binding (qval1E0)",
+            "GO:0005488:binding (qval9.49E-1)",
+            "GO:0019899:enzyme binding (qval8.62E-1)"
+        ],
+        "comp": [
+            "GO:0044428:nuclear part (qval3.72E-1)",
+            "GO:0005654:nucleoplasm (qval2.71E-1)"
+        ]
+    },
+    "43": {
+        "proc": [
+            "GO:0031122:cytoplasmic microtubule organization (qval5.6E-1)",
+            "GO:0110104:mRNA alternative polyadenylation (qval8.04E-1)",
+            "GO:0030913:paranodal junction assembly (qval1E0)",
+            "GO:0048853:forebrain morphogenesis (qval1E0)",
+            "GO:0046498:S-adenosylhomocysteine metabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0042826:histone deacetylase binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044428:nuclear part (qval2.99E-3)",
+            "GO:0044446:intracellular organelle part (qval1.09E-2)",
+            "GO:0044424:intracellular part (qval1.06E-2)",
+            "GO:0044422:organelle part (qval9.86E-3)",
+            "GO:0070603:SWI/SNF superfamily-type complex (qval5.2E-2)",
+            "GO:0043229:intracellular organelle (qval6.07E-2)",
+            "GO:0017053:transcriptional repressor complex (qval6.12E-2)",
+            "GO:0005654:nucleoplasm (qval7.86E-2)",
+            "GO:0043226:organelle (qval7.75E-2)",
+            "GO:1904949:ATPase complex (qval1.42E-1)",
+            "GO:0043227:membrane-bounded organelle (qval1.43E-1)"
+        ]
+    },
+    "44": {
+        "proc": [
+            "GO:0090162:establishment of epithelial cell polarity (qval1E0)",
+            "GO:0045198:establishment of epithelial cell apical/basal polarity (qval9.84E-1)",
+            "GO:0030859:polarized epithelial cell differentiation (qval1E0)",
+            "GO:0035089:establishment of apical/basal cell polarity (qval1E0)",
+            "GO:0045197:establishment or maintenance of epithelial cell apical/basal polarity (qval1E0)",
+            "GO:0061339:establishment or maintenance of monopolar cell polarity (qval1E0)",
+            "GO:0061162:establishment of monopolar cell polarity (qval9.69E-1)",
+            "GO:0034198:cellular response to amino acid starvation (qval1E0)",
+            "GO:0061245:establishment or maintenance of bipolar cell polarity (qval1E0)",
+            "GO:0035088:establishment or maintenance of apical/basal cell polarity (qval1E0)",
+            "GO:0034433:steroid esterification (qval1E0)",
+            "GO:0034434:sterol esterification (qval9.46E-1)",
+            "GO:0034435:cholesterol esterification (qval8.73E-1)",
+            "GO:1990928:response to amino acid starvation (qval9.76E-1)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0005737:cytoplasm (qval2.6E-2)",
+            "GO:0061574:ASAP complex (qval7.29E-1)"
+        ]
+    },
+    "45": {
+        "proc": [
+            "GO:0090063:positive regulation of microtubule nucleation (qval1E0)",
+            "GO:0007052:mitotic spindle organization (qval1E0)",
+            "GO:0007051:spindle organization (qval1E0)"
+        ],
+        "func": [
+            "GO:0047237:glucuronylgalactosylproteoglycan 4-beta-N-acetylgalactosaminyltransferase activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "46": {
+        "proc": [
+            "GO:0045637:regulation of myeloid cell differentiation (qval3.03E-1)",
+            "GO:0034198:cellular response to amino acid starvation (qval7.1E-1)",
+            "GO:1990928:response to amino acid starvation (qval7.87E-1)",
+            "GO:0010813:neuropeptide catabolic process (qval1E0)",
+            "GO:1903311:regulation of mRNA metabolic process (qval9.02E-1)",
+            "GO:0071156:regulation of cell cycle arrest (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0044446:intracellular organelle part (qval7.75E-2)",
+            "GO:0044422:organelle part (qval1.15E-1)",
+            "GO:0016607:nuclear speck (qval9.66E-2)",
+            "GO:0044428:nuclear part (qval1.07E-1)",
+            "GO:0044424:intracellular part (qval2.06E-1)"
+        ]
+    },
+    "47": {
+        "proc": [
+            "GO:0046907:intracellular transport (qval4.82E-1)",
+            "GO:0051649:establishment of localization in cell (qval8.13E-1)",
+            "GO:0097435:supramolecular fiber organization (qval1E0)",
+            "GO:0003081:regulation of systemic arterial blood pressure by renin-angiotensin (qval1E0)",
+            "GO:0032462:regulation of protein homooligomerization (qval1E0)",
+            "GO:0051716:cellular response to stimulus (qval1E0)",
+            "GO:1904590:negative regulation of protein import (qval1E0)",
+            "GO:0042308:negative regulation of protein import into nucleus (qval1E0)",
+            "GO:0022607:cellular component assembly (qval1E0)",
+            "GO:0050896:response to stimulus (qval1E0)",
+            "GO:0032459:regulation of protein oligomerization (qval1E0)",
+            "GO:0002035:brain renin-angiotensin system (qval1E0)",
+            "GO:2000331:regulation of terminal button organization (qval1E0)",
+            "GO:0090063:positive regulation of microtubule nucleation (qval1E0)"
+        ],
+        "func": [
+            "GO:0008092:cytoskeletal protein binding (qval1E0)",
+            "GO:0016300:tRNA (uracil) methyltransferase activity (qval1E0)",
+            "GO:0031711:bradykinin receptor binding (qval7.16E-1)",
+            "GO:0003779:actin binding (qval7.92E-1)"
+        ],
+        "comp": [
+            "GO:0043231:intracellular membrane-bounded organelle (qval4.37E-1)",
+            "GO:1990234:transferase complex (qval6.7E-1)"
+        ]
+    },
+    "48": {
+        "proc": [
+            "GO:0031329:regulation of cellular catabolic process (qval1E0)",
+            "GO:0006216:cytidine catabolic process (qval1E0)",
+            "GO:0046087:cytidine metabolic process (qval1E0)",
+            "GO:0009972:cytidine deamination (qval1E0)",
+            "GO:0009894:regulation of catabolic process (qval1E0)",
+            "GO:0051865:protein autoubiquitination (qval1E0)",
+            "GO:0042117:monocyte activation (qval1E0)"
+        ],
+        "func": [
+            "GO:1902945:metalloendopeptidase activity involved in amyloid precursor protein catabolic process (qval1E0)"
+        ],
+        "comp": [
+            "GO:1990234:transferase complex (qval1E0)"
+        ]
+    },
+    "49": {
+        "proc": [
+            "GO:0016071:mRNA metabolic process (qval1.63E-1)",
+            "GO:0008380:RNA splicing (qval4.04E-1)",
+            "GO:0071826:ribonucleoprotein complex subunit organization (qval3.87E-1)",
+            "GO:0006397:mRNA processing (qval7.27E-1)",
+            "GO:0016043:cellular component organization (qval6.72E-1)",
+            "GO:0022618:ribonucleoprotein complex assembly (qval5.66E-1)",
+            "GO:0006396:RNA processing (qval5.02E-1)",
+            "GO:0071840:cellular component organization or biogenesis (qval4.4E-1)",
+            "GO:0006807:nitrogen compound metabolic process (qval5.57E-1)",
+            "GO:0061014:positive regulation of mRNA catabolic process (qval6.77E-1)",
+            "GO:0006996:organelle organization (qval6.22E-1)",
+            "GO:0043170:macromolecule metabolic process (qval8.72E-1)"
+        ],
+        "func": [
+            "GO:1990247:N6-methyladenosine-containing RNA binding (qval2.48E-1)",
+            "GO:0003723:RNA binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:1990904:ribonucleoprotein complex (qval3.81E-1)",
+            "GO:0097635:extrinsic component of autophagosome membrane (qval1.97E-1)",
+            "GO:0071008:U2-type post-mRNA release spliceosomal complex (qval3.9E-1)",
+            "GO:0097268:cytoophidium (qval2.93E-1)",
+            "GO:0005681:spliceosomal complex (qval2.62E-1)",
+            "GO:0016607:nuclear speck (qval2.87E-1)",
+            "GO:0005684:U2-type spliceosomal complex (qval2.48E-1)"
+        ]
+    },
+    "50": {
+        "proc": [
+            "GO:0042552:myelination (qval5.24E-1)",
+            "GO:0008366:axon ensheathment (qval3.2E-1)",
+            "GO:0007272:ensheathment of neurons (qval2.13E-1)",
+            "GO:0120183:positive regulation of focal adhesion disassembly (qval2E-1)",
+            "GO:0120182:regulation of focal adhesion disassembly (qval1.6E-1)",
+            "GO:0061000:negative regulation of dendritic spine development (qval1.52E-1)",
+            "GO:0045197:establishment or maintenance of epithelial cell apical/basal polarity (qval3.91E-1)",
+            "GO:0061245:establishment or maintenance of bipolar cell polarity (qval6.9E-1)",
+            "GO:0035088:establishment or maintenance of apical/basal cell polarity (qval6.14E-1)",
+            "GO:0048312:intracellular distribution of mitochondria (qval6.25E-1)",
+            "GO:0021675:nerve development (qval9.4E-1)",
+            "GO:0090162:establishment of epithelial cell polarity (qval9.83E-1)",
+            "GO:0048592:eye morphogenesis (qval9.28E-1)",
+            "GO:0070936:protein K48-linked ubiquitination (qval8.62E-1)",
+            "GO:0042407:cristae formation (qval8.91E-1)",
+            "GO:1903393:positive regulation of adherens junction organization (qval8.37E-1)"
+        ],
+        "func": [
+            "GO:0004485:methylcrotonoyl-CoA carboxylase activity (qval8.55E-1)",
+            "GO:0008489:UDP-galactose:glucosylceramide beta-1,4-galactosyltransferase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:1905202:methylcrotonoyl-CoA carboxylase complex (qval3.77E-1)",
+            "GO:0005801:cis-Golgi network (qval2.25E-1)",
+            "GO:0044424:intracellular part (qval2.64E-1)",
+            "GO:0044444:cytoplasmic part (qval2.09E-1)"
+        ]
+    }
+}

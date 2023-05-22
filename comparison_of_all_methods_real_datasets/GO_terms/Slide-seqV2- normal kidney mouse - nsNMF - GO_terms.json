@@ -1,0 +1,227 @@
+{
+    "1": {
+        "proc": [
+            "GO:0002224:toll-like receptor signaling pathway (qval1E0)",
+            "GO:0006996:organelle organization (qval1E0)",
+            "GO:0051494:negative regulation of cytoskeleton organization (qval1E0)",
+            "GO:0002221:pattern recognition receptor signaling pathway (qval1E0)",
+            "GO:1901879:regulation of protein depolymerization (qval1E0)"
+        ],
+        "func": [
+            "GO:0003743:translation initiation factor activity (qval8.89E-1)",
+            "GO:0008135:translation factor activity, RNA binding (qval1E0)",
+            "GO:0005515:protein binding (qval8.74E-1)"
+        ],
+        "comp": [
+            "GO:0005737:cytoplasm (qval8.66E-3)",
+            "GO:0030054:cell junction (qval5.05E-3)",
+            "GO:0044450:microtubule organizing center part (qval6.17E-2)",
+            "GO:0016281:eukaryotic translation initiation factor 4F complex (qval1.36E-1)",
+            "GO:0034518:RNA cap binding complex (qval1.71E-1)",
+            "GO:0005845:mRNA cap binding complex (qval1.43E-1)",
+            "GO:0034451:centriolar satellite (qval1.46E-1)",
+            "GO:0120103:centriolar subdistal appendage (qval1.58E-1)"
+        ]
+    },
+    "2": {
+        "proc": [
+            "GO:0006605:protein targeting (qval1E0)"
+        ],
+        "func": [
+            "GO:0042169:SH2 domain binding (qval1.29E-1)",
+            "GO:0070530:K63-linked polyubiquitin modification-dependent protein binding (qval3.15E-1)"
+        ],
+        "comp": [
+            "GO:0001931:uropod (qval1E0)"
+        ]
+    },
+    "3": {
+        "proc": [
+            "GO:0034249:negative regulation of cellular amide metabolic process (qval1E0)",
+            "GO:0006635:fatty acid beta-oxidation (qval1E0)",
+            "GO:0033539:fatty acid beta-oxidation using acyl-CoA dehydrogenase (qval8.34E-1)",
+            "GO:0019395:fatty acid oxidation (qval1E0)",
+            "GO:0034440:lipid oxidation (qval1E0)",
+            "GO:0009062:fatty acid catabolic process (qval1E0)",
+            "GO:0034248:regulation of cellular amide metabolic process (qval1E0)",
+            "GO:0046688:response to copper ion (qval1E0)",
+            "GO:0072329:monocarboxylic acid catabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0035368:selenocysteine insertion sequence binding (qval9.77E-2)",
+            "GO:0035256:G protein-coupled glutamate receptor binding (qval2.91E-1)",
+            "GO:0003785:actin monomer binding (qval8.17E-1)"
+        ],
+        "comp": [
+            "GO:0044429:mitochondrial part (qval1.21E-1)",
+            "GO:0031966:mitochondrial membrane (qval3.1E-1)"
+        ]
+    },
+    "4": {
+        "proc": [
+            "GO:0071900:regulation of protein serine/threonine kinase activity (qval1E0)",
+            "GO:0010632:regulation of epithelial cell migration (qval1E0)",
+            "GO:0032012:regulation of ARF protein signal transduction (qval1E0)",
+            "GO:0001936:regulation of endothelial cell proliferation (qval1E0)",
+            "GO:1902531:regulation of intracellular signal transduction (qval1E0)",
+            "GO:0030334:regulation of cell migration (qval1E0)",
+            "GO:0006739:NADP metabolic process (qval1E0)",
+            "GO:1902533:positive regulation of intracellular signal transduction (qval1E0)",
+            "GO:0050678:regulation of epithelial cell proliferation (qval1E0)"
+        ],
+        "func": [
+            "GO:0005178:integrin binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005797:Golgi medial cisterna (qval7.83E-1)"
+        ]
+    },
+    "5": {
+        "proc": [
+            "GO:1900825:regulation of membrane depolarization during cardiac muscle cell action potential (qval7.65E-1)",
+            "GO:0098902:regulation of membrane depolarization during action potential (qval6.36E-1)",
+            "GO:2000649:regulation of sodium ion transmembrane transporter activity (qval1E0)",
+            "GO:0050900:leukocyte migration (qval1E0)",
+            "GO:1902305:regulation of sodium ion transmembrane transport (qval1E0)",
+            "GO:0042407:cristae formation (qval1E0)",
+            "GO:0006626:protein targeting to mitochondrion (qval1E0)",
+            "GO:0097529:myeloid leukocyte migration (qval1E0)"
+        ],
+        "func": [
+            "GO:0004322:ferroxidase activity (qval3.7E-1)",
+            "GO:0016724:oxidoreductase activity, oxidizing metal ions, oxygen as acceptor (qval1.85E-1)",
+            "GO:0016722:oxidoreductase activity, oxidizing metal ions (qval9.48E-1)"
+        ],
+        "comp": [
+            "GO:0061617:MICOS complex (qval4.55E-1)"
+        ]
+    },
+    "6": {
+        "proc": [
+            "GO:0030643:cellular phosphate ion homeostasis (qval1E0)",
+            "GO:0072501:cellular divalent inorganic anion homeostasis (qval9.07E-1)",
+            "GO:0072502:cellular trivalent inorganic anion homeostasis (qval6.04E-1)",
+            "GO:0098661:inorganic anion transmembrane transport (qval4.64E-1)",
+            "GO:0055062:phosphate ion homeostasis (qval7.09E-1)",
+            "GO:0072505:divalent inorganic anion homeostasis (qval5.91E-1)",
+            "GO:0072506:trivalent inorganic anion homeostasis (qval5.07E-1)",
+            "GO:0035435:phosphate ion transmembrane transport (qval5.31E-1)",
+            "GO:0006817:phosphate ion transport (qval5.57E-1)",
+            "GO:0030320:cellular monovalent inorganic anion homeostasis (qval1E0)",
+            "GO:0030002:cellular anion homeostasis (qval9.92E-1)",
+            "GO:0015698:inorganic anion transport (qval1E0)",
+            "GO:0010608:posttranscriptional regulation of gene expression (qval1E0)"
+        ],
+        "func": [
+            "GO:0044877:protein-containing complex binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005903:brush border (qval6.67E-1)",
+            "GO:0098862:cluster of actin-based cell projections (qval4.89E-1)"
+        ]
+    },
+    "7": {
+        "proc": [],
+        "func": [],
+        "comp": [
+            "GO:0070469:respiratory chain (qval9.8E-2)",
+            "GO:0005739:mitochondrion (qval2.49E-1)"
+        ]
+    },
+    "8": {
+        "proc": [
+            "GO:1902600:proton transmembrane transport (qval1.23E-4)",
+            "GO:0015985:energy coupled proton transport, down electrochemical gradient (qval5.99E-4)",
+            "GO:0015986:ATP synthesis coupled proton transport (qval3.99E-4)",
+            "GO:0044281:small molecule metabolic process (qval2.7E-3)",
+            "GO:0017144:drug metabolic process (qval3.03E-3)",
+            "GO:0015672:monovalent inorganic cation transport (qval8.07E-3)",
+            "GO:0046034:ATP metabolic process (qval1.3E-2)",
+            "GO:0006754:ATP biosynthetic process (qval3.2E-2)",
+            "GO:0009205:purine ribonucleoside triphosphate metabolic process (qval2.9E-2)",
+            "GO:0009199:ribonucleoside triphosphate metabolic process (qval2.97E-2)",
+            "GO:0009126:purine nucleoside monophosphate metabolic process (qval3.18E-2)",
+            "GO:0009144:purine nucleoside triphosphate metabolic process (qval2.91E-2)",
+            "GO:0009167:purine ribonucleoside monophosphate metabolic process (qval2.69E-2)",
+            "GO:0009206:purine ribonucleoside triphosphate biosynthetic process (qval3.17E-2)",
+            "GO:0009145:purine nucleoside triphosphate biosynthetic process (qval3.15E-2)",
+            "GO:0009201:ribonucleoside triphosphate biosynthetic process (qval3.34E-2)",
+            "GO:0009161:ribonucleoside monophosphate metabolic process (qval3.25E-2)",
+            "GO:0009141:nucleoside triphosphate metabolic process (qval3.3E-2)",
+            "GO:0009123:nucleoside monophosphate metabolic process (qval3.73E-2)",
+            "GO:0009127:purine nucleoside monophosphate biosynthetic process (qval4.46E-2)",
+            "GO:0009168:purine ribonucleoside monophosphate biosynthetic process (qval4.25E-2)",
+            "GO:0009142:nucleoside triphosphate biosynthetic process (qval4.28E-2)",
+            "GO:0009156:ribonucleoside monophosphate biosynthetic process (qval4.77E-2)",
+            "GO:0006812:cation transport (qval5.38E-2)",
+            "GO:0006811:ion transport (qval5.38E-2)",
+            "GO:0009124:nucleoside monophosphate biosynthetic process (qval5.38E-2)",
+            "GO:0098662:inorganic cation transmembrane transport (qval8.74E-2)",
+            "GO:0044283:small molecule biosynthetic process (qval9.76E-2)",
+            "GO:0006091:generation of precursor metabolites and energy (qval1.15E-1)",
+            "GO:1901576:organic substance biosynthetic process (qval1.16E-1)",
+            "GO:0098655:cation transmembrane transport (qval1.22E-1)",
+            "GO:1901615:organic hydroxy compound metabolic process (qval1.29E-1)",
+            "GO:0098660:inorganic ion transmembrane transport (qval1.27E-1)",
+            "GO:0009058:biosynthetic process (qval1.38E-1)",
+            "GO:0042776:mitochondrial ATP synthesis coupled proton transport (qval1.54E-1)",
+            "GO:0009152:purine ribonucleotide biosynthetic process (qval1.71E-1)",
+            "GO:1901617:organic hydroxy compound biosynthetic process (qval1.83E-1)",
+            "GO:0006164:purine nucleotide biosynthetic process (qval2.12E-1)",
+            "GO:0009260:ribonucleotide biosynthetic process (qval2.07E-1)",
+            "GO:0044249:cellular biosynthetic process (qval2.28E-1)",
+            "GO:0072522:purine-containing compound biosynthetic process (qval2.33E-1)",
+            "GO:0046390:ribose phosphate biosynthetic process (qval2.27E-1)",
+            "GO:0009150:purine ribonucleotide metabolic process (qval2.36E-1)",
+            "GO:0006082:organic acid metabolic process (qval2.42E-1)",
+            "GO:0055114:oxidation-reduction process (qval2.38E-1)",
+            "GO:1901362:organic cyclic compound biosynthetic process (qval2.54E-1)",
+            "GO:0006163:purine nucleotide metabolic process (qval2.72E-1)",
+            "GO:0009259:ribonucleotide metabolic process (qval2.9E-1)",
+            "GO:0006119:oxidative phosphorylation (qval2.9E-1)",
+            "GO:0006120:mitochondrial electron transport, NADH to ubiquinone (qval2.84E-1)"
+        ],
+        "func": [
+            "GO:0015078:proton transmembrane transporter activity (qval1.92E-5)",
+            "GO:0046933:proton-transporting ATP synthase activity, rotational mechanism (qval4.25E-5)",
+            "GO:0044769:ATPase activity, coupled to transmembrane movement of ions, rotational mechanism (qval3.06E-5)",
+            "GO:0022853:active ion transmembrane transporter activity (qval2.66E-4)",
+            "GO:0042625:ATPase coupled ion transmembrane transporter activity (qval2.13E-4)",
+            "GO:0019829:cation-transporting ATPase activity (qval1.77E-4)",
+            "GO:0036442:proton-exporting ATPase activity (qval5.33E-4)",
+            "GO:0015077:monovalent inorganic cation transmembrane transporter activity (qval2.55E-3)",
+            "GO:0042626:ATPase activity, coupled to transmembrane movement of substances (qval3.26E-3)",
+            "GO:0043492:ATPase activity, coupled to movement of substances (qval3.26E-3)",
+            "GO:0015399:primary active transmembrane transporter activity (qval3.12E-3)",
+            "GO:0015405:P-P-bond-hydrolysis-driven transmembrane transporter activity (qval2.86E-3)",
+            "GO:0046961:proton-transporting ATPase activity, rotational mechanism (qval9.61E-3)",
+            "GO:0016491:oxidoreductase activity (qval9.27E-3)",
+            "GO:0043532:angiostatin binding (qval1.41E-2)",
+            "GO:0022890:inorganic cation transmembrane transporter activity (qval2.27E-2)",
+            "GO:0015318:inorganic molecular entity transmembrane transporter activity (qval3.42E-2)",
+            "GO:0008324:cation transmembrane transporter activity (qval3.92E-2)",
+            "GO:0016887:ATPase activity (qval5.03E-2)",
+            "GO:0015075:ion transmembrane transporter activity (qval4.92E-2)",
+            "GO:0042623:ATPase activity, coupled (qval7.76E-2)",
+            "GO:0004029:aldehyde dehydrogenase (NAD) activity (qval1.04E-1)",
+            "GO:0042288:MHC class I protein binding (qval9.95E-2)",
+            "GO:0022857:transmembrane transporter activity (qval1.55E-1)"
+        ],
+        "comp": [
+            "GO:0033178:proton-transporting two-sector ATPase complex, catalytic domain (qval3.8E-7)",
+            "GO:0000275:mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) (qval2.14E-4)",
+            "GO:0045261:proton-transporting ATP synthase complex, catalytic core F(1) (qval1.43E-4)",
+            "GO:0098800:inner mitochondrial membrane protein complex (qval2.93E-4)",
+            "GO:0044455:mitochondrial membrane part (qval4.47E-4)",
+            "GO:0005739:mitochondrion (qval5.02E-4)",
+            "GO:0016469:proton-transporting two-sector ATPase complex (qval4.9E-4)",
+            "GO:0045259:proton-transporting ATP synthase complex (qval1.51E-3)",
+            "GO:0005753:mitochondrial proton-transporting ATP synthase complex (qval1.34E-3)",
+            "GO:0098798:mitochondrial protein complex (qval1.05E-2)",
+            "GO:0098796:membrane protein complex (qval2.73E-2)",
+            "GO:0033180:proton-transporting V-type ATPase, V1 domain (qval2.7E-2)",
+            "GO:0070469:respiratory chain (qval7.81E-2)",
+            "GO:0098803:respiratory chain complex (qval1.03E-1)"
+        ]
+    }
+}

@@ -1,0 +1,1417 @@
+{
+    "1": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "2": {
+        "proc": [
+            "GO:1901328:response to cytochalasin B (qval1E0)",
+            "GO:0072749:cellular response to cytochalasin B (qval1E0)",
+            "GO:0051621:regulation of norepinephrine uptake (qval1E0)",
+            "GO:0036146:cellular response to mycotoxin (qval1E0)",
+            "GO:0010046:response to mycotoxin (qval1E0)",
+            "GO:0071896:protein localization to adherens junction (qval1E0)"
+        ],
+        "func": [
+            "GO:0098973:structural constituent of postsynaptic actin cytoskeleton (qval6.32E-1)"
+        ],
+        "comp": [
+            "GO:0042571:immunoglobulin complex, circulating (qval8.3E-1)",
+            "GO:0019814:immunoglobulin complex (qval8.29E-1)"
+        ]
+    },
+    "3": {
+        "proc": [
+            "GO:0048002:antigen processing and presentation of peptide antigen (qval1.25E-6)",
+            "GO:0019882:antigen processing and presentation (qval8.92E-6)",
+            "GO:0002478:antigen processing and presentation of exogenous peptide antigen (qval1.04E-5)",
+            "GO:0019884:antigen processing and presentation of exogenous antigen (qval2.14E-5)",
+            "GO:0002428:antigen processing and presentation of peptide antigen via MHC class Ib (qval3.75E-4)",
+            "GO:0002475:antigen processing and presentation via MHC class Ib (qval6.64E-4)",
+            "GO:0002483:antigen processing and presentation of endogenous peptide antigen (qval6.69E-4)",
+            "GO:0019885:antigen processing and presentation of endogenous peptide antigen via MHC class I (qval5.86E-4)",
+            "GO:0019883:antigen processing and presentation of endogenous antigen (qval8.08E-4)",
+            "GO:0002824:positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (qval8.66E-4)",
+            "GO:0002821:positive regulation of adaptive immune response (qval1.03E-3)",
+            "GO:0002474:antigen processing and presentation of peptide antigen via MHC class I (qval1.12E-3)",
+            "GO:0001916:positive regulation of T cell mediated cytotoxicity (qval1.28E-3)",
+            "GO:0050776:regulation of immune response (qval1.66E-3)",
+            "GO:0001914:regulation of T cell mediated cytotoxicity (qval1.78E-3)",
+            "GO:0002822:regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (qval2.1E-3)",
+            "GO:0002819:regulation of adaptive immune response (qval2.94E-3)",
+            "GO:0002711:positive regulation of T cell mediated immunity (qval3.91E-3)",
+            "GO:0001912:positive regulation of leukocyte mediated cytotoxicity (qval5.91E-3)",
+            "GO:0050778:positive regulation of immune response (qval5.67E-3)",
+            "GO:0002699:positive regulation of immune effector process (qval5.49E-3)",
+            "GO:0031343:positive regulation of cell killing (qval8.02E-3)",
+            "GO:0002709:regulation of T cell mediated immunity (qval8.41E-3)",
+            "GO:0001910:regulation of leukocyte mediated cytotoxicity (qval1.13E-2)",
+            "GO:0009617:response to bacterium (qval1.37E-2)",
+            "GO:0031341:regulation of cell killing (qval1.81E-2)",
+            "GO:0002486:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent (qval2.04E-2)",
+            "GO:0002708:positive regulation of lymphocyte mediated immunity (qval2.1E-2)",
+            "GO:0002476:antigen processing and presentation of endogenous peptide antigen via MHC class Ib (qval2.22E-2)",
+            "GO:0002484:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway (qval2.14E-2)",
+            "GO:0006955:immune response (qval2.11E-2)",
+            "GO:0050896:response to stimulus (qval2.12E-2)",
+            "GO:0002682:regulation of immune system process (qval2.12E-2)",
+            "GO:0019886:antigen processing and presentation of exogenous peptide antigen via MHC class II (qval2.49E-2)",
+            "GO:0002697:regulation of immune effector process (qval2.64E-2)",
+            "GO:0002504:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II (qval3E-2)",
+            "GO:0002495:antigen processing and presentation of peptide antigen via MHC class II (qval2.92E-2)",
+            "GO:0051704:multi-organism process (qval2.97E-2)",
+            "GO:0002705:positive regulation of leukocyte mediated immunity (qval3.14E-2)",
+            "GO:0002684:positive regulation of immune system process (qval3.48E-2)",
+            "GO:0002706:regulation of lymphocyte mediated immunity (qval4.11E-2)",
+            "GO:0046890:regulation of lipid biosynthetic process (qval5.03E-2)",
+            "GO:0010977:negative regulation of neuron projection development (qval5.32E-2)",
+            "GO:0002703:regulation of leukocyte mediated immunity (qval8.96E-2)",
+            "GO:0031345:negative regulation of cell projection organization (qval8.76E-2)",
+            "GO:0051707:response to other organism (qval8.95E-2)",
+            "GO:0045665:negative regulation of neuron differentiation (qval1.2E-1)",
+            "GO:0009605:response to external stimulus (qval1.39E-1)",
+            "GO:0048839:inner ear development (qval1.41E-1)",
+            "GO:0048584:positive regulation of response to stimulus (qval1.67E-1)",
+            "GO:0006090:pyruvate metabolic process (qval1.95E-1)",
+            "GO:0071831:intermediate-density lipoprotein particle clearance (qval2.08E-1)",
+            "GO:1902999:negative regulation of phospholipid efflux (qval2.04E-1)",
+            "GO:2001139:negative regulation of phospholipid transport (qval2E-1)",
+            "GO:1901627:negative regulation of postsynaptic membrane organization (qval1.97E-1)",
+            "GO:1905858:regulation of heparan sulfate proteoglycan binding (qval1.93E-1)",
+            "GO:1905855:positive regulation of heparan sulfate binding (qval1.9E-1)",
+            "GO:1905853:regulation of heparan sulfate binding (qval1.87E-1)",
+            "GO:1905860:positive regulation of heparan sulfate proteoglycan binding (qval1.83E-1)",
+            "GO:1905890:regulation of cellular response to very-low-density lipoprotein particle stimulus (qval1.8E-1)",
+            "GO:1903000:regulation of lipid transport across blood brain barrier (qval1.77E-1)",
+            "GO:1903001:negative regulation of lipid transport across blood brain barrier (qval1.75E-1)",
+            "GO:1903002:positive regulation of lipid transport across blood brain barrier (qval1.72E-1)",
+            "GO:0043207:response to external biotic stimulus (qval1.77E-1)",
+            "GO:0050768:negative regulation of neurogenesis (qval1.76E-1)",
+            "GO:0044282:small molecule catabolic process (qval1.78E-1)",
+            "GO:0050810:regulation of steroid biosynthetic process (qval1.89E-1)",
+            "GO:0009607:response to biotic stimulus (qval1.91E-1)",
+            "GO:0002376:immune system process (qval1.92E-1)"
+        ],
+        "func": [
+            "GO:0042605:peptide antigen binding (qval1.16E-3)",
+            "GO:0003823:antigen binding (qval5.88E-3)",
+            "GO:0042277:peptide binding (qval1.62E-2)",
+            "GO:0033218:amide binding (qval3.41E-2)",
+            "GO:0016830:carbon-carbon lyase activity (qval3.86E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval5.27E-1)",
+            "GO:0046911:metal chelating activity (qval4.51E-1)"
+        ],
+        "comp": [
+            "GO:0042611:MHC protein complex (qval1.36E-9)",
+            "GO:0042612:MHC class I protein complex (qval1.48E-5)",
+            "GO:0030670:phagocytic vesicle membrane (qval1.7E-4)",
+            "GO:0030666:endocytic vesicle membrane (qval2.32E-4)",
+            "GO:0009897:external side of plasma membrane (qval4.15E-4)",
+            "GO:0098552:side of membrane (qval8.87E-4)",
+            "GO:0098797:plasma membrane protein complex (qval1.35E-3)",
+            "GO:0042613:MHC class II protein complex (qval4.07E-3)",
+            "GO:0071556:integral component of lumenal side of endoplasmic reticulum membrane (qval4.52E-3)",
+            "GO:0042824:MHC class I peptide loading complex (qval5.96E-3)",
+            "GO:0044459:plasma membrane part (qval1.25E-2)",
+            "GO:0098588:bounding membrane of organelle (qval2.06E-2)",
+            "GO:0005615:extracellular space (qval2.52E-2)",
+            "GO:0030659:cytoplasmic vesicle membrane (qval3.26E-2)",
+            "GO:0098796:membrane protein complex (qval3.14E-2)",
+            "GO:0044433:cytoplasmic vesicle part (qval3.29E-2)",
+            "GO:0012506:vesicle membrane (qval3.9E-2)",
+            "GO:0098805:whole membrane (qval6.08E-2)",
+            "GO:0044432:endoplasmic reticulum part (qval6.34E-2)",
+            "GO:0044421:extracellular region part (qval6.57E-2)"
+        ]
+    },
+    "4": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "5": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "6": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "7": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "8": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "9": {
+        "proc": [
+            "GO:0034120:positive regulation of erythrocyte aggregation (qval1E0)",
+            "GO:0034118:regulation of erythrocyte aggregation (qval1E0)",
+            "GO:0002317:plasma cell differentiation (qval1E0)"
+        ],
+        "func": [
+            "GO:0030395:lactose binding (qval1E0)",
+            "GO:0048030:disaccharide binding (qval9.48E-1)",
+            "GO:0005534:galactose binding (qval1E0)"
+        ],
+        "comp": []
+    },
+    "10": {
+        "proc": [
+            "GO:0002485:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent (qval1E0)",
+            "GO:0042590:antigen processing and presentation of exogenous peptide antigen via MHC class I (qval1E0)",
+            "GO:0002486:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent (qval1E0)"
+        ],
+        "func": [
+            "GO:0062061:TAP complex binding (qval1E0)",
+            "GO:0030881:beta-2-microglobulin binding (qval1E0)",
+            "GO:0042610:CD8 receptor binding (qval8.43E-1)",
+            "GO:0046977:TAP binding (qval7.11E-1)",
+            "GO:0042608:T cell receptor binding (qval7.58E-1)"
+        ],
+        "comp": [
+            "GO:0042612:MHC class I protein complex (qval1E0)",
+            "GO:0071556:integral component of lumenal side of endoplasmic reticulum membrane (qval6.91E-1)",
+            "GO:0042824:MHC class I peptide loading complex (qval5.53E-1)"
+        ]
+    },
+    "11": {
+        "proc": [
+            "GO:0010813:neuropeptide catabolic process (qval1E0)",
+            "GO:0060448:dichotomous subdivision of terminal units involved in lung branching (qval1E0)"
+        ],
+        "func": [
+            "GO:0030108:HLA-A specific activating MHC class I receptor activity (qval9.48E-1)",
+            "GO:0032397:activating MHC class I receptor activity (qval9.48E-1)",
+            "GO:0032393:MHC class I receptor activity (qval9.48E-1)",
+            "GO:0030984:kininogen binding (qval9.48E-1)"
+        ],
+        "comp": []
+    },
+    "12": {
+        "proc": [
+            "GO:0006880:intracellular sequestering of iron ion (qval1E0)",
+            "GO:0097577:sequestering of iron ion (qval1E0)",
+            "GO:0051238:sequestering of metal ion (qval1E0)"
+        ],
+        "func": [
+            "GO:0004322:ferroxidase activity (qval1E0)",
+            "GO:0016724:oxidoreductase activity, oxidizing metal ions, oxygen as acceptor (qval1E0)"
+        ],
+        "comp": [
+            "GO:0071682:endocytic vesicle lumen (qval2.77E-1)",
+            "GO:0060205:cytoplasmic vesicle lumen (qval8.29E-1)"
+        ]
+    },
+    "13": {
+        "proc": [],
+        "func": [],
+        "comp": [
+            "GO:0042613:MHC class II protein complex (qval1E0)"
+        ]
+    },
+    "14": {
+        "proc": [
+            "GO:0043382:positive regulation of memory T cell differentiation (qval1E0)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval1E0)",
+            "GO:0019543:propionate catabolic process (qval7.22E-1)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval5.41E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval6.49E-1)",
+            "GO:0043380:regulation of memory T cell differentiation (qval7.22E-1)",
+            "GO:0006114:glycerol biosynthetic process (qval6.18E-1)",
+            "GO:0019541:propionate metabolic process (qval5.41E-1)",
+            "GO:0019401:alditol biosynthetic process (qval6.01E-1)",
+            "GO:0019626:short-chain fatty acid catabolic process (qval6.49E-1)",
+            "GO:0071468:cellular response to acidic pH (qval8.86E-1)",
+            "GO:0070365:hepatocyte differentiation (qval8.12E-1)",
+            "GO:0006107:oxaloacetate metabolic process (qval9.16E-1)",
+            "GO:0046459:short-chain fatty acid metabolic process (qval9.28E-1)"
+        ],
+        "func": [
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval6.32E-1)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval3.16E-1)"
+        ],
+        "comp": []
+    },
+    "15": {
+        "proc": [
+            "GO:0090367:negative regulation of mRNA modification (qval1E0)",
+            "GO:0090365:regulation of mRNA modification (qval1E0)"
+        ],
+        "func": [
+            "GO:1990827:deaminase binding (qval6.32E-1)",
+            "GO:1990247:N6-methyladenosine-containing RNA binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:1990826:nucleoplasmic periphery of the nuclear pore complex (qval2.77E-1)",
+            "GO:0015629:actin cytoskeleton (qval2.19E-1)",
+            "GO:0030478:actin cap (qval3.69E-1)"
+        ]
+    },
+    "16": {
+        "proc": [
+            "GO:0002478:antigen processing and presentation of exogenous peptide antigen (qval3.58E-4)",
+            "GO:0019884:antigen processing and presentation of exogenous antigen (qval3.76E-4)",
+            "GO:0048002:antigen processing and presentation of peptide antigen (qval6.96E-4)",
+            "GO:0019882:antigen processing and presentation (qval2.51E-3)",
+            "GO:0019886:antigen processing and presentation of exogenous peptide antigen via MHC class II (qval2.27E-2)",
+            "GO:0002504:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II (qval2.41E-2)",
+            "GO:0002495:antigen processing and presentation of peptide antigen via MHC class II (qval2.06E-2)",
+            "GO:0034341:response to interferon-gamma (qval5.46E-1)",
+            "GO:0002824:positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (qval5.36E-1)",
+            "GO:0002821:positive regulation of adaptive immune response (qval5.51E-1)",
+            "GO:0006955:immune response (qval5.19E-1)",
+            "GO:0002344:B cell affinity maturation (qval7.21E-1)",
+            "GO:0002343:peripheral B cell selection (qval6.66E-1)",
+            "GO:0006880:intracellular sequestering of iron ion (qval6.18E-1)",
+            "GO:0002485:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent (qval5.77E-1)",
+            "GO:0002822:regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (qval5.92E-1)",
+            "GO:0002819:regulation of adaptive immune response (qval6.8E-1)",
+            "GO:0097577:sequestering of iron ion (qval7.21E-1)"
+        ],
+        "func": [
+            "GO:0042605:peptide antigen binding (qval4.72E-2)",
+            "GO:0003823:antigen binding (qval1.07E-1)"
+        ],
+        "comp": [
+            "GO:0042611:MHC protein complex (qval1.71E-5)",
+            "GO:0042613:MHC class II protein complex (qval2.17E-3)",
+            "GO:0098797:plasma membrane protein complex (qval6.4E-2)",
+            "GO:0044433:cytoplasmic vesicle part (qval8.2E-2)",
+            "GO:0071682:endocytic vesicle lumen (qval1.11E-1)"
+        ]
+    },
+    "17": {
+        "proc": [
+            "GO:0042942:D-serine transport (qval1E0)",
+            "GO:0015825:L-serine transport (qval1E0)",
+            "GO:0032329:serine transport (qval1E0)",
+            "GO:0042940:D-amino acid transport (qval1E0)",
+            "GO:0046949:fatty-acyl-CoA biosynthetic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0004361:glutaryl-CoA dehydrogenase activity (qval6.32E-1)",
+            "GO:0042945:D-serine transmembrane transporter activity (qval3.16E-1)",
+            "GO:0042943:D-amino acid transmembrane transporter activity (qval4.21E-1)",
+            "GO:0015194:L-serine transmembrane transporter activity (qval7.9E-1)"
+        ],
+        "comp": [
+            "GO:0005743:mitochondrial inner membrane (qval1E0)",
+            "GO:0019866:organelle inner membrane (qval7.41E-1)"
+        ]
+    },
+    "18": {
+        "proc": [
+            "GO:0055114:oxidation-reduction process (qval7.24E-3)",
+            "GO:0015988:energy coupled proton transmembrane transport, against electrochemical gradient (qval3.54E-2)",
+            "GO:0015990:electron transport coupled proton transport (qval2.36E-2)",
+            "GO:0022904:respiratory electron transport chain (qval2.66E-2)",
+            "GO:0006091:generation of precursor metabolites and energy (qval2.55E-2)",
+            "GO:0022900:electron transport chain (qval2.19E-2)",
+            "GO:0006123:mitochondrial electron transport, cytochrome c to oxygen (qval2.12E-2)",
+            "GO:0019646:aerobic electron transport chain (qval1.86E-2)",
+            "GO:0046365:monosaccharide catabolic process (qval2.16E-1)",
+            "GO:0009060:aerobic respiration (qval2.66E-1)",
+            "GO:0045333:cellular respiration (qval4.96E-1)",
+            "GO:0046394:carboxylic acid biosynthetic process (qval6.16E-1)",
+            "GO:0016053:organic acid biosynthetic process (qval5.76E-1)",
+            "GO:0006081:cellular aldehyde metabolic process (qval5.62E-1)",
+            "GO:1902600:proton transmembrane transport (qval6.63E-1)",
+            "GO:0006064:glucuronate catabolic process (qval6.76E-1)",
+            "GO:0042840:D-glucuronate catabolic process (qval6.37E-1)",
+            "GO:0042839:D-glucuronate metabolic process (qval6.01E-1)",
+            "GO:0048757:pigment granule maturation (qval5.7E-1)",
+            "GO:0044282:small molecule catabolic process (qval5.86E-1)"
+        ],
+        "func": [
+            "GO:0009055:electron transfer activity (qval2.62E-2)",
+            "GO:0004129:cytochrome-c oxidase activity (qval1.08E-1)",
+            "GO:0016676:oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor (qval7.22E-2)",
+            "GO:0015002:heme-copper terminal oxidase activity (qval5.41E-2)",
+            "GO:0016675:oxidoreductase activity, acting on a heme group of donors (qval4.95E-2)",
+            "GO:0016491:oxidoreductase activity (qval3.98E-1)",
+            "GO:0004495:mevaldate reductase activity (qval4.51E-1)",
+            "GO:0047939:L-glucuronate reductase activity (qval3.95E-1)",
+            "GO:0047941:glucuronolactone reductase activity (qval3.51E-1)",
+            "GO:0047747:cholate-CoA ligase activity (qval3.16E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval2.87E-1)",
+            "GO:0070251:pristanate-CoA ligase activity (qval2.63E-1)",
+            "GO:0019726:mevaldate reductase (NADPH) activity (qval2.43E-1)"
+        ],
+        "comp": [
+            "GO:0070069:cytochrome complex (qval8.08E-4)",
+            "GO:0098803:respiratory chain complex (qval1.03E-2)",
+            "GO:0045275:respiratory chain complex III (qval1.36E-2)",
+            "GO:0005750:mitochondrial respiratory chain complex III (qval1.02E-2)",
+            "GO:0005751:mitochondrial respiratory chain complex IV (qval8.13E-3)",
+            "GO:0045277:respiratory chain complex IV (qval1.17E-2)",
+            "GO:0098800:inner mitochondrial membrane protein complex (qval1.56E-2)",
+            "GO:0031090:organelle membrane (qval3.43E-2)",
+            "GO:0044425:membrane part (qval5.78E-2)",
+            "GO:0044455:mitochondrial membrane part (qval5.97E-2)",
+            "GO:0098798:mitochondrial protein complex (qval9.74E-2)",
+            "GO:0070469:respiratory chain (qval1.1E-1)"
+        ]
+    },
+    "19": {
+        "proc": [
+            "GO:2000878:positive regulation of oligopeptide transport (qval1E0)",
+            "GO:2000880:positive regulation of dipeptide transport (qval5.41E-1)",
+            "GO:2001148:regulation of dipeptide transmembrane transport (qval3.61E-1)",
+            "GO:2001150:positive regulation of dipeptide transmembrane transport (qval2.71E-1)",
+            "GO:0090088:regulation of oligopeptide transport (qval2.16E-1)",
+            "GO:0090089:regulation of dipeptide transport (qval1.8E-1)",
+            "GO:0032849:positive regulation of cellular pH reduction (qval6.18E-1)",
+            "GO:0032847:regulation of cellular pH reduction (qval8.12E-1)",
+            "GO:0015670:carbon dioxide transport (qval9.62E-1)",
+            "GO:0038166:angiotensin-activated signaling pathway (qval9.74E-1)",
+            "GO:0015669:gas transport (qval9.84E-1)",
+            "GO:2001225:regulation of chloride transport (qval9.02E-1)",
+            "GO:0019755:one-carbon compound transport (qval8.33E-1)",
+            "GO:0032230:positive regulation of synaptic transmission, GABAergic (qval1E0)"
+        ],
+        "func": [
+            "GO:0004064:arylesterase activity (qval1E0)",
+            "GO:0004089:carbonate dehydratase activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "20": {
+        "proc": [
+            "GO:0097089:methyl-branched fatty acid metabolic process (qval1E0)",
+            "GO:0001561:fatty acid alpha-oxidation (qval1E0)",
+            "GO:0042760:very long-chain fatty acid catabolic process (qval1E0)",
+            "GO:0044539:long-chain fatty acid import (qval1E0)",
+            "GO:0006699:bile acid biosynthetic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0047747:cholate-CoA ligase activity (qval3.16E-1)",
+            "GO:0070251:pristanate-CoA ligase activity (qval1.58E-1)",
+            "GO:0050197:phytanate-CoA ligase activity (qval2.11E-1)",
+            "GO:0015245:fatty acid transmembrane transporter activity (qval5.53E-1)",
+            "GO:0031957:very long-chain fatty acid-CoA ligase activity (qval5.06E-1)",
+            "GO:0102391:decanoate-CoA ligase activity (qval4.74E-1)",
+            "GO:0031956:medium-chain fatty acid-CoA ligase activity (qval4.51E-1)",
+            "GO:0047676:arachidonate-CoA ligase activity (qval4.35E-1)",
+            "GO:0004467:long-chain fatty acid-CoA ligase activity (qval4.56E-1)"
+        ],
+        "comp": []
+    },
+    "21": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "22": {
+        "proc": [
+            "GO:0043382:positive regulation of memory T cell differentiation (qval1E0)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval1E0)",
+            "GO:0019543:propionate catabolic process (qval7.22E-1)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval5.41E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval6.49E-1)",
+            "GO:0043380:regulation of memory T cell differentiation (qval7.22E-1)",
+            "GO:0006114:glycerol biosynthetic process (qval6.18E-1)",
+            "GO:0019541:propionate metabolic process (qval5.41E-1)",
+            "GO:0019401:alditol biosynthetic process (qval6.01E-1)",
+            "GO:0019626:short-chain fatty acid catabolic process (qval6.49E-1)",
+            "GO:0071468:cellular response to acidic pH (qval8.86E-1)",
+            "GO:0070365:hepatocyte differentiation (qval8.12E-1)",
+            "GO:0006107:oxaloacetate metabolic process (qval9.16E-1)",
+            "GO:0046459:short-chain fatty acid metabolic process (qval9.28E-1)"
+        ],
+        "func": [
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval6.32E-1)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval3.16E-1)"
+        ],
+        "comp": []
+    },
+    "23": {
+        "proc": [],
+        "func": [
+            "GO:0102009:proline dipeptidase activity (qval6.32E-1)",
+            "GO:0070540:stearic acid binding (qval6.32E-1)",
+            "GO:0120019:intermembrane phosphotidylcholine transfer activity (qval1E0)",
+            "GO:0120014:intermembrane phospholipid transfer activity (qval9.48E-1)"
+        ],
+        "comp": []
+    },
+    "24": {
+        "proc": [
+            "GO:0015711:organic anion transport (qval1E0)",
+            "GO:0071423:malate transmembrane transport (qval1E0)",
+            "GO:0015743:malate transport (qval1E0)",
+            "GO:0015729:oxaloacetate transport (qval1E0)",
+            "GO:0015709:thiosulfate transport (qval1E0)",
+            "GO:0015760:glucose-6-phosphate transport (qval1E0)",
+            "GO:0015712:hexose phosphate transport (qval1E0)",
+            "GO:0006820:anion transport (qval1E0)",
+            "GO:0071422:succinate transmembrane transport (qval1E0)",
+            "GO:0015744:succinate transport (qval1E0)"
+        ],
+        "func": [
+            "GO:0004346:glucose-6-phosphatase activity (qval1E0)",
+            "GO:0050309:sugar-terminal-phosphatase activity (qval6.32E-1)",
+            "GO:0015117:thiosulfate transmembrane transporter activity (qval8.43E-1)",
+            "GO:0015131:oxaloacetate transmembrane transporter activity (qval6.32E-1)",
+            "GO:0015140:malate transmembrane transporter activity (qval5.06E-1)",
+            "GO:0015141:succinate transmembrane transporter activity (qval6.32E-1)"
+        ],
+        "comp": []
+    },
+    "25": {
+        "proc": [
+            "GO:0015988:energy coupled proton transmembrane transport, against electrochemical gradient (qval9.46E-3)",
+            "GO:0015990:electron transport coupled proton transport (qval4.73E-3)",
+            "GO:0043434:response to peptide hormone (qval4.5E-2)",
+            "GO:0006091:generation of precursor metabolites and energy (qval4.48E-2)",
+            "GO:1901652:response to peptide (qval6.27E-2)",
+            "GO:0055114:oxidation-reduction process (qval6.12E-2)",
+            "GO:0009725:response to hormone (qval1.59E-1)",
+            "GO:1902600:proton transmembrane transport (qval1.68E-1)",
+            "GO:0006090:pyruvate metabolic process (qval1.5E-1)",
+            "GO:0022904:respiratory electron transport chain (qval1.4E-1)",
+            "GO:0022900:electron transport chain (qval1.46E-1)",
+            "GO:0010243:response to organonitrogen compound (qval3.12E-1)",
+            "GO:1901698:response to nitrogen compound (qval3.64E-1)",
+            "GO:0019318:hexose metabolic process (qval3.87E-1)",
+            "GO:0009719:response to endogenous stimulus (qval4.6E-1)",
+            "GO:0005996:monosaccharide metabolic process (qval4.46E-1)",
+            "GO:0043382:positive regulation of memory T cell differentiation (qval5.09E-1)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval4.81E-1)",
+            "GO:0019543:propionate catabolic process (qval4.56E-1)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval4.33E-1)",
+            "GO:0006001:fructose catabolic process (qval6.18E-1)",
+            "GO:0061625:glycolytic process through fructose-1-phosphate (qval5.9E-1)",
+            "GO:0061624:fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate (qval5.65E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval5.41E-1)"
+        ],
+        "func": [
+            "GO:0016830:carbon-carbon lyase activity (qval2.6E-1)",
+            "GO:0009055:electron transfer activity (qval1.82E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval4.21E-1)",
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval6.32E-1)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval5.06E-1)",
+            "GO:0016829:lyase activity (qval5.84E-1)"
+        ],
+        "comp": [
+            "GO:0045275:respiratory chain complex III (qval5.44E-3)",
+            "GO:0005750:mitochondrial respiratory chain complex III (qval2.72E-3)",
+            "GO:0070069:cytochrome complex (qval9.29E-3)",
+            "GO:0070469:respiratory chain (qval4.46E-2)",
+            "GO:0098803:respiratory chain complex (qval4.69E-2)",
+            "GO:1990204:oxidoreductase complex (qval7.82E-2)",
+            "GO:0098800:inner mitochondrial membrane protein complex (qval1.02E-1)",
+            "GO:0030867:rough endoplasmic reticulum membrane (qval2.07E-1)"
+        ]
+    },
+    "26": {
+        "proc": [],
+        "func": [
+            "GO:0004185:serine-type carboxypeptidase activity (qval1E0)",
+            "GO:0070011:peptidase activity, acting on L-amino acid peptides (qval1E0)"
+        ],
+        "comp": []
+    },
+    "27": {
+        "proc": [],
+        "func": [
+            "GO:0036456:L-methionine-(S)-S-oxide reductase activity (qval6.32E-1)",
+            "GO:0033744:L-methionine:thioredoxin-disulfide S-oxidoreductase activity (qval3.16E-1)",
+            "GO:0008113:peptide-methionine (S)-S-oxide reductase activity (qval4.21E-1)"
+        ],
+        "comp": []
+    },
+    "28": {
+        "proc": [
+            "GO:0006090:pyruvate metabolic process (qval2.26E-1)",
+            "GO:0019318:hexose metabolic process (qval4.56E-1)",
+            "GO:0005996:monosaccharide metabolic process (qval4.01E-1)",
+            "GO:0043434:response to peptide hormone (qval6.49E-1)",
+            "GO:0043382:positive regulation of memory T cell differentiation (qval8.66E-1)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval7.22E-1)",
+            "GO:0019543:propionate catabolic process (qval6.18E-1)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval5.41E-1)",
+            "GO:1901652:response to peptide (qval5.07E-1)",
+            "GO:0044282:small molecule catabolic process (qval5.6E-1)",
+            "GO:0006001:fructose catabolic process (qval5.9E-1)",
+            "GO:0061625:glycolytic process through fructose-1-phosphate (qval5.41E-1)",
+            "GO:0061624:fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate (qval4.99E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval4.64E-1)",
+            "GO:0005975:carbohydrate metabolic process (qval5.71E-1)",
+            "GO:0043380:regulation of memory T cell differentiation (qval5.41E-1)",
+            "GO:0006114:glycerol biosynthetic process (qval5.09E-1)",
+            "GO:0019541:propionate metabolic process (qval4.81E-1)",
+            "GO:0009725:response to hormone (qval5.6E-1)",
+            "GO:0019401:alditol biosynthetic process (qval5.41E-1)",
+            "GO:0070072:vacuolar proton-transporting V-type ATPase complex assembly (qval5.15E-1)",
+            "GO:0032787:monocarboxylic acid metabolic process (qval4.95E-1)",
+            "GO:0017144:drug metabolic process (qval5.12E-1)",
+            "GO:0006116:NADH oxidation (qval5.41E-1)",
+            "GO:0019626:short-chain fatty acid catabolic process (qval5.19E-1)",
+            "GO:0044283:small molecule biosynthetic process (qval5.41E-1)"
+        ],
+        "func": [
+            "GO:0016830:carbon-carbon lyase activity (qval4.36E-2)",
+            "GO:0016829:lyase activity (qval2.97E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval2.11E-1)",
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval3.16E-1)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval2.53E-1)",
+            "GO:0004332:fructose-bisphosphate aldolase activity (qval4.21E-1)",
+            "GO:0070061:fructose binding (qval4.51E-1)"
+        ],
+        "comp": [
+            "GO:0030867:rough endoplasmic reticulum membrane (qval8.3E-1)",
+            "GO:0030868:smooth endoplasmic reticulum membrane (qval6.91E-1)",
+            "GO:0097425:smooth endoplasmic reticulum part (qval4.61E-1)"
+        ]
+    },
+    "29": {
+        "proc": [
+            "GO:1900825:regulation of membrane depolarization during cardiac muscle cell action potential (qval1E0)",
+            "GO:0098902:regulation of membrane depolarization during action potential (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "30": {
+        "proc": [
+            "GO:0015730:propanoate transport (qval1E0)",
+            "GO:0015913:short-chain fatty acid import (qval1E0)",
+            "GO:0015912:short-chain fatty acid transport (qval1E0)",
+            "GO:2000535:regulation of entry of bacterium into host cell (qval1E0)",
+            "GO:0006004:fucose metabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0015552:propionate transmembrane transporter activity (qval6.32E-1)",
+            "GO:0004560:alpha-L-fucosidase activity (qval6.32E-1)",
+            "GO:0015636:short-chain fatty acid transmembrane transporter activity (qval4.21E-1)",
+            "GO:0015928:fucosidase activity (qval3.16E-1)",
+            "GO:0042895:antibiotic transmembrane transporter activity (qval3.79E-1)",
+            "GO:0015129:lactate transmembrane transporter activity (qval5.27E-1)"
+        ],
+        "comp": []
+    },
+    "31": {
+        "proc": [
+            "GO:0055114:oxidation-reduction process (qval1.66E-3)",
+            "GO:0006091:generation of precursor metabolites and energy (qval2.17E-2)",
+            "GO:0015988:energy coupled proton transmembrane transport, against electrochemical gradient (qval1.47E-2)",
+            "GO:0015990:electron transport coupled proton transport (qval1.1E-2)",
+            "GO:0017001:antibiotic catabolic process (qval1.67E-1)",
+            "GO:1901700:response to oxygen-containing compound (qval1.58E-1)",
+            "GO:0009060:aerobic respiration (qval2.37E-1)",
+            "GO:0043434:response to peptide hormone (qval2.27E-1)",
+            "GO:0045333:cellular respiration (qval3.78E-1)",
+            "GO:1901652:response to peptide (qval4.17E-1)",
+            "GO:1902600:proton transmembrane transport (qval5.66E-1)",
+            "GO:0006090:pyruvate metabolic process (qval5.19E-1)",
+            "GO:0022904:respiratory electron transport chain (qval4.97E-1)",
+            "GO:0022900:electron transport chain (qval5.31E-1)",
+            "GO:0060785:regulation of apoptosis involved in tissue homeostasis (qval5.77E-1)",
+            "GO:0009725:response to hormone (qval8.99E-1)"
+        ],
+        "func": [
+            "GO:0016491:oxidoreductase activity (qval2.97E-2)",
+            "GO:0003954:NADH dehydrogenase activity (qval1.77E-1)",
+            "GO:0016830:carbon-carbon lyase activity (qval4.02E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval6.32E-1)",
+            "GO:0072541:peroxynitrite reductase activity (qval5.06E-1)",
+            "GO:0016651:oxidoreductase activity, acting on NAD(P)H (qval4.25E-1)"
+        ],
+        "comp": [
+            "GO:0070469:respiratory chain (qval6.38E-3)",
+            "GO:0098803:respiratory chain complex (qval4.82E-3)",
+            "GO:1990204:oxidoreductase complex (qval9.12E-3)",
+            "GO:0098800:inner mitochondrial membrane protein complex (qval1.29E-2)",
+            "GO:0005739:mitochondrion (qval1.64E-2)",
+            "GO:0044455:mitochondrial membrane part (qval4.74E-2)",
+            "GO:0030964:NADH dehydrogenase complex (qval6.53E-2)",
+            "GO:0045271:respiratory chain complex I (qval5.72E-2)",
+            "GO:0005747:mitochondrial respiratory chain complex I (qval5.08E-2)",
+            "GO:0098798:mitochondrial protein complex (qval5.13E-2)",
+            "GO:0071682:endocytic vesicle lumen (qval1.01E-1)"
+        ]
+    },
+    "32": {
+        "proc": [],
+        "func": [
+            "GO:0010853:cyclase activator activity (qval9.48E-1)",
+            "GO:0030250:guanylate cyclase activator activity (qval4.74E-1)",
+            "GO:0030249:guanylate cyclase regulator activity (qval4.21E-1)",
+            "GO:0010851:cyclase regulator activity (qval4.74E-1)"
+        ],
+        "comp": []
+    },
+    "33": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "34": {
+        "proc": [
+            "GO:0015742:alpha-ketoglutarate transport (qval1E0)",
+            "GO:0097254:renal tubular secretion (qval1E0)",
+            "GO:0006559:L-phenylalanine catabolic process (qval1E0)",
+            "GO:1902222:erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0004155:6,7-dihydropteridine reductase activity (qval6.32E-1)",
+            "GO:0070404:NADH binding (qval9.48E-1)"
+        ],
+        "comp": []
+    },
+    "35": {
+        "proc": [
+            "GO:0043382:positive regulation of memory T cell differentiation (qval1E0)",
+            "GO:0002344:B cell affinity maturation (qval1E0)",
+            "GO:0002343:peripheral B cell selection (qval1E0)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval1E0)",
+            "GO:0019543:propionate catabolic process (qval1E0)",
+            "GO:1903281:positive regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval9.28E-1)",
+            "GO:1903408:positive regulation of sodium:potassium-exchanging ATPase activity (qval8.12E-1)",
+            "GO:0050870:positive regulation of T cell activation (qval7.85E-1)",
+            "GO:1903039:positive regulation of leukocyte cell-cell adhesion (qval8.51E-1)",
+            "GO:1903279:regulation of calcium:sodium antiporter activity (qval8.85E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval8.12E-1)",
+            "GO:1903406:regulation of sodium:potassium-exchanging ATPase activity (qval7.49E-1)",
+            "GO:0022409:positive regulation of cell-cell adhesion (qval8.5E-1)",
+            "GO:0043380:regulation of memory T cell differentiation (qval8.66E-1)",
+            "GO:0002339:B cell selection (qval8.12E-1)",
+            "GO:0002455:humoral immune response mediated by circulating immunoglobulin (qval7.64E-1)",
+            "GO:0006114:glycerol biosynthetic process (qval7.21E-1)",
+            "GO:0019541:propionate metabolic process (qval6.83E-1)",
+            "GO:1903278:positive regulation of sodium ion export across plasma membrane (qval6.49E-1)",
+            "GO:0051251:positive regulation of lymphocyte activation (qval6.44E-1)"
+        ],
+        "func": [
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval1E0)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval9.48E-1)"
+        ],
+        "comp": []
+    },
+    "36": {
+        "proc": [
+            "GO:0072553:terminal button organization (qval1E0)",
+            "GO:0099172:presynapse organization (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "37": {
+        "proc": [
+            "GO:0060785:regulation of apoptosis involved in tissue homeostasis (qval1E0)",
+            "GO:0016480:negative regulation of transcription by RNA polymerase III (qval1E0)"
+        ],
+        "func": [
+            "GO:0072541:peroxynitrite reductase activity (qval6.32E-1)",
+            "GO:0008379:thioredoxin peroxidase activity (qval1E0)",
+            "GO:0051920:peroxiredoxin activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "38": {
+        "proc": [
+            "GO:0055064:chloride ion homeostasis (qval8.98E-2)",
+            "GO:0007588:excretion (qval4.49E-2)",
+            "GO:0055075:potassium ion homeostasis (qval5.53E-2)",
+            "GO:0055078:sodium ion homeostasis (qval4.47E-2)",
+            "GO:0055083:monovalent inorganic anion homeostasis (qval4.39E-2)",
+            "GO:0055081:anion homeostasis (qval1.58E-1)",
+            "GO:0006814:sodium ion transport (qval4.18E-1)",
+            "GO:0000255:allantoin metabolic process (qval4.06E-1)",
+            "GO:0072051:juxtaglomerular apparatus development (qval3.61E-1)",
+            "GO:0046720:citric acid secretion (qval3.25E-1)",
+            "GO:0055067:monovalent inorganic cation homeostasis (qval3.26E-1)",
+            "GO:0001822:kidney development (qval4.2E-1)",
+            "GO:0090150:establishment of protein localization to membrane (qval4.89E-1)",
+            "GO:0019628:urate catabolic process (qval4.64E-1)",
+            "GO:0072233:metanephric thick ascending limb development (qval4.33E-1)",
+            "GO:0072218:metanephric ascending thin limb development (qval4.06E-1)",
+            "GO:0072021:ascending thin limb development (qval3.82E-1)",
+            "GO:0072023:thick ascending limb development (qval3.61E-1)",
+            "GO:0097744:urate salt excretion (qval3.42E-1)",
+            "GO:0044861:protein transport into plasma membrane raft (qval4.87E-1)",
+            "GO:0097273:creatinine homeostasis (qval4.64E-1)",
+            "GO:0015672:monovalent inorganic cation transport (qval5.85E-1)",
+            "GO:0071475:cellular hyperosmotic salinity response (qval5.65E-1)",
+            "GO:0006842:tricarboxylic acid transport (qval5.41E-1)",
+            "GO:0015746:citrate transport (qval5.19E-1)",
+            "GO:0044860:protein localization to plasma membrane raft (qval4.99E-1)",
+            "GO:0072221:metanephric distal convoluted tubule development (qval4.81E-1)",
+            "GO:0072025:distal convoluted tubule development (qval4.64E-1)",
+            "GO:0060073:micturition (qval4.48E-1)"
+        ],
+        "func": [
+            "GO:0008511:sodium:potassium:chloride symporter activity (qval1E0)",
+            "GO:0009674:potassium:sodium symporter activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0044421:extracellular region part (qval1E0)"
+        ]
+    },
+    "39": {
+        "proc": [
+            "GO:1903281:positive regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:1903408:positive regulation of sodium:potassium-exchanging ATPase activity (qval1E0)",
+            "GO:1903279:regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:1903406:regulation of sodium:potassium-exchanging ATPase activity (qval8.12E-1)",
+            "GO:1903278:positive regulation of sodium ion export across plasma membrane (qval8.66E-1)",
+            "GO:1903276:regulation of sodium ion export across plasma membrane (qval9.02E-1)",
+            "GO:1903288:positive regulation of potassium ion import (qval9.28E-1)",
+            "GO:1903286:regulation of potassium ion import (qval9.47E-1)",
+            "GO:0036376:sodium ion export across plasma membrane (qval1E0)",
+            "GO:0055119:relaxation of cardiac muscle (qval9.74E-1)",
+            "GO:0030007:cellular potassium ion homeostasis (qval1E0)",
+            "GO:2000651:positive regulation of sodium ion transmembrane transporter activity (qval1E0)",
+            "GO:0010882:regulation of cardiac muscle contraction by calcium ion signaling (qval1E0)"
+        ],
+        "func": [
+            "GO:0008556:potassium-transporting ATPase activity (qval1E0)",
+            "GO:0005391:sodium:potassium-exchanging ATPase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005890:sodium:potassium-exchanging ATPase complex (qval8.3E-1)",
+            "GO:0098533:ATPase dependent transmembrane transport complex (qval5.53E-1)",
+            "GO:0090533:cation-transporting ATPase complex (qval3.69E-1)"
+        ]
+    },
+    "40": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "41": {
+        "proc": [
+            "GO:2000866:positive regulation of estradiol secretion (qval1E0)",
+            "GO:2000864:regulation of estradiol secretion (qval1E0)",
+            "GO:0034418:urate biosynthetic process (qval1E0)",
+            "GO:0006710:androgen catabolic process (qval8.12E-1)",
+            "GO:0071394:cellular response to testosterone stimulus (qval1E0)",
+            "GO:0033280:response to vitamin D (qval1E0)",
+            "GO:0030643:cellular phosphate ion homeostasis (qval1E0)",
+            "GO:0072501:cellular divalent inorganic anion homeostasis (qval1E0)",
+            "GO:0072502:cellular trivalent inorganic anion homeostasis (qval1E0)",
+            "GO:0030644:cellular chloride ion homeostasis (qval1E0)",
+            "GO:0033574:response to testosterone (qval1E0)",
+            "GO:0055062:phosphate ion homeostasis (qval1E0)",
+            "GO:0072505:divalent inorganic anion homeostasis (qval9.99E-1)",
+            "GO:0072506:trivalent inorganic anion homeostasis (qval9.28E-1)",
+            "GO:0072044:collecting duct development (qval8.66E-1)",
+            "GO:0042447:hormone catabolic process (qval8.79E-1)",
+            "GO:0046415:urate metabolic process (qval8.28E-1)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "42": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "43": {
+        "proc": [
+            "GO:2001045:negative regulation of integrin-mediated signaling pathway (qval1E0)",
+            "GO:0006572:tyrosine catabolic process (qval1E0)",
+            "GO:0071680:response to indole-3-methanol (qval1E0)",
+            "GO:0071681:cellular response to indole-3-methanol (qval1E0)",
+            "GO:0016264:gap junction assembly (qval1E0)",
+            "GO:0006559:L-phenylalanine catabolic process (qval1E0)",
+            "GO:1902222:erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0004411:homogentisate 1,2-dioxygenase activity (qval6.32E-1)"
+        ],
+        "comp": [
+            "GO:0005915:zonula adherens (qval1E0)"
+        ]
+    },
+    "44": {
+        "proc": [
+            "GO:0060785:regulation of apoptosis involved in tissue homeostasis (qval1E0)",
+            "GO:0016480:negative regulation of transcription by RNA polymerase III (qval1E0)",
+            "GO:0042744:hydrogen peroxide catabolic process (qval1E0)",
+            "GO:0070995:NADPH oxidation (qval1E0)"
+        ],
+        "func": [
+            "GO:0072541:peroxynitrite reductase activity (qval3.16E-1)",
+            "GO:0008379:thioredoxin peroxidase activity (qval7.9E-1)",
+            "GO:0051920:peroxiredoxin activity (qval6.32E-1)",
+            "GO:0001016:RNA polymerase III regulatory region DNA binding (qval5.53E-1)"
+        ],
+        "comp": []
+    },
+    "45": {
+        "proc": [
+            "GO:1904851:positive regulation of establishment of protein localization to telomere (qval1E0)",
+            "GO:0070203:regulation of establishment of protein localization to telomere (qval1E0)",
+            "GO:0070202:regulation of establishment of protein localization to chromosome (qval1E0)",
+            "GO:1904816:positive regulation of protein localization to chromosome, telomeric region (qval1E0)"
+        ],
+        "func": [
+            "GO:0071987:WD40-repeat domain binding (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005832:chaperonin-containing T-complex (qval1E0)",
+            "GO:0002199:zona pellucida receptor complex (qval6.91E-1)"
+        ]
+    },
+    "46": {
+        "proc": [
+            "GO:0048757:pigment granule maturation (qval1E0)",
+            "GO:0043476:pigment accumulation (qval1E0)",
+            "GO:0043482:cellular pigment accumulation (qval1E0)",
+            "GO:0033059:cellular pigmentation (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0097487:multivesicular body, internal vesicle (qval1E0)",
+            "GO:0031090:organelle membrane (qval9.44E-1)"
+        ]
+    },
+    "47": {
+        "proc": [
+            "GO:0051808:translocation of peptides or proteins into other organism involved in symbiotic interaction (qval1E0)",
+            "GO:0042000:translocation of peptides or proteins into host (qval1E0)",
+            "GO:0044053:translocation of peptides or proteins into host cell cytoplasm (qval1E0)",
+            "GO:0007431:salivary gland development (qval1E0)",
+            "GO:1904874:positive regulation of telomerase RNA localization to Cajal body (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "48": {
+        "proc": [
+            "GO:0034775:glutathione transmembrane transport (qval1E0)",
+            "GO:0006842:tricarboxylic acid transport (qval1E0)",
+            "GO:0015746:citrate transport (qval1E0)",
+            "GO:0035443:tripeptide transmembrane transport (qval1E0)",
+            "GO:0071422:succinate transmembrane transport (qval1E0)",
+            "GO:0034635:glutathione transport (qval1E0)",
+            "GO:0015744:succinate transport (qval1E0)",
+            "GO:0042939:tripeptide transport (qval1E0)"
+        ],
+        "func": [
+            "GO:0015362:high-affinity sodium:dicarboxylate symporter activity (qval6.32E-1)",
+            "GO:0015137:citrate transmembrane transporter activity (qval6.32E-1)",
+            "GO:0015142:tricarboxylic acid transmembrane transporter activity (qval4.21E-1)",
+            "GO:0015139:alpha-ketoglutarate transmembrane transporter activity (qval4.74E-1)",
+            "GO:0042895:antibiotic transmembrane transporter activity (qval3.79E-1)",
+            "GO:0034634:glutathione transmembrane transporter activity (qval4.21E-1)",
+            "GO:0042937:tripeptide transmembrane transporter activity (qval3.61E-1)",
+            "GO:0017153:sodium:dicarboxylate symporter activity (qval3.16E-1)",
+            "GO:0015141:succinate transmembrane transporter activity (qval4.21E-1)"
+        ],
+        "comp": [
+            "GO:0071819:DUBm complex (qval5.53E-1)",
+            "GO:0070390:transcription export complex 2 (qval6.91E-1)"
+        ]
+    },
+    "49": {
+        "proc": [
+            "GO:1903281:positive regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:1903408:positive regulation of sodium:potassium-exchanging ATPase activity (qval1E0)",
+            "GO:1903279:regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:1903406:regulation of sodium:potassium-exchanging ATPase activity (qval8.12E-1)",
+            "GO:1903278:positive regulation of sodium ion export across plasma membrane (qval8.66E-1)",
+            "GO:1903276:regulation of sodium ion export across plasma membrane (qval9.02E-1)",
+            "GO:1903288:positive regulation of potassium ion import (qval9.28E-1)",
+            "GO:1903286:regulation of potassium ion import (qval9.47E-1)",
+            "GO:0036376:sodium ion export across plasma membrane (qval1E0)",
+            "GO:0055119:relaxation of cardiac muscle (qval9.74E-1)",
+            "GO:0030007:cellular potassium ion homeostasis (qval1E0)",
+            "GO:2000651:positive regulation of sodium ion transmembrane transporter activity (qval1E0)",
+            "GO:0010882:regulation of cardiac muscle contraction by calcium ion signaling (qval1E0)"
+        ],
+        "func": [
+            "GO:0008556:potassium-transporting ATPase activity (qval1E0)",
+            "GO:0005391:sodium:potassium-exchanging ATPase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0005890:sodium:potassium-exchanging ATPase complex (qval8.3E-1)",
+            "GO:0098533:ATPase dependent transmembrane transport complex (qval5.53E-1)",
+            "GO:0090533:cation-transporting ATPase complex (qval3.69E-1)"
+        ]
+    },
+    "50": {
+        "proc": [
+            "GO:0043568:positive regulation of insulin-like growth factor receptor signaling pathway (qval1E0)",
+            "GO:0044342:type B pancreatic cell proliferation (qval1E0)"
+        ],
+        "func": [
+            "GO:0031995:insulin-like growth factor II binding (qval1E0)",
+            "GO:0031994:insulin-like growth factor I binding (qval1E0)"
+        ],
+        "comp": []
+    },
+    "51": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "52": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "53": {
+        "proc": [
+            "GO:2000866:positive regulation of estradiol secretion (qval1E0)",
+            "GO:0060785:regulation of apoptosis involved in tissue homeostasis (qval1E0)",
+            "GO:1901700:response to oxygen-containing compound (qval1E0)",
+            "GO:2000864:regulation of estradiol secretion (qval1E0)",
+            "GO:0034418:urate biosynthetic process (qval1E0)",
+            "GO:0006710:androgen catabolic process (qval1E0)",
+            "GO:0016480:negative regulation of transcription by RNA polymerase III (qval1E0)"
+        ],
+        "func": [
+            "GO:0072541:peroxynitrite reductase activity (qval9.48E-1)"
+        ],
+        "comp": []
+    },
+    "54": {
+        "proc": [
+            "GO:1902109:negative regulation of mitochondrial membrane permeability involved in apoptotic process (qval1E0)",
+            "GO:0035795:negative regulation of mitochondrial membrane permeability (qval1E0)",
+            "GO:1901029:negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway (qval1E0)",
+            "GO:1905709:negative regulation of membrane permeability (qval1E0)"
+        ],
+        "func": [
+            "GO:0003986:acetyl-CoA hydrolase activity (qval1E0)",
+            "GO:0003985:acetyl-CoA C-acetyltransferase activity (qval9.48E-1)",
+            "GO:0016453:C-acetyltransferase activity (qval7.37E-1)",
+            "GO:0003988:acetyl-CoA C-acyltransferase activity (qval7.11E-1)",
+            "GO:0102991:myristoyl-CoA hydrolase activity (qval7.58E-1)"
+        ],
+        "comp": []
+    },
+    "55": {
+        "proc": [
+            "GO:0006123:mitochondrial electron transport, cytochrome c to oxygen (qval1E0)",
+            "GO:0019646:aerobic electron transport chain (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0005751:mitochondrial respiratory chain complex IV (qval1E0)",
+            "GO:0045277:respiratory chain complex IV (qval8.99E-1)"
+        ]
+    },
+    "56": {
+        "proc": [
+            "GO:0018879:biphenyl metabolic process (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0005831:steroid hormone aporeceptor complex (qval2.77E-1)"
+        ]
+    },
+    "57": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "58": {
+        "proc": [
+            "GO:0010040:response to iron(II) ion (qval1E0)",
+            "GO:0017144:drug metabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0051538:3 iron, 4 sulfur cluster binding (qval1E0)",
+            "GO:0030350:iron-responsive element binding (qval9.48E-1)",
+            "GO:0003994:aconitate hydratase activity (qval6.32E-1)"
+        ],
+        "comp": [
+            "GO:0000275:mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) (qval1E0)",
+            "GO:0045261:proton-transporting ATP synthase complex, catalytic core F(1) (qval6.91E-1)"
+        ]
+    },
+    "59": {
+        "proc": [
+            "GO:0043402:glucocorticoid mediated signaling pathway (qval1E0)",
+            "GO:0071389:cellular response to mineralocorticoid stimulus (qval1E0)",
+            "GO:1904044:response to aldosterone (qval1E0)",
+            "GO:1904045:cellular response to aldosterone (qval1E0)",
+            "GO:0110096:cellular response to aldehyde (qval1E0)",
+            "GO:0051385:response to mineralocorticoid (qval1E0)",
+            "GO:0007019:microtubule depolymerization (qval1E0)"
+        ],
+        "func": [
+            "GO:0043423:3-phosphoinositide-dependent protein kinase binding (qval9.48E-1)"
+        ],
+        "comp": []
+    },
+    "60": {
+        "proc": [
+            "GO:0015988:energy coupled proton transmembrane transport, against electrochemical gradient (qval1.58E-3)",
+            "GO:0015990:electron transport coupled proton transport (qval7.89E-4)",
+            "GO:1902600:proton transmembrane transport (qval7.52E-2)",
+            "GO:0022904:respiratory electron transport chain (qval5.85E-2)",
+            "GO:0022900:electron transport chain (qval5.4E-2)",
+            "GO:0006091:generation of precursor metabolites and energy (qval5.23E-1)",
+            "GO:0015672:monovalent inorganic cation transport (qval6.19E-1)",
+            "GO:0055114:oxidation-reduction process (qval6.33E-1)",
+            "GO:0098662:inorganic cation transmembrane transport (qval7.5E-1)",
+            "GO:0098655:cation transmembrane transport (qval8E-1)",
+            "GO:0098660:inorganic ion transmembrane transport (qval7.59E-1)"
+        ],
+        "func": [
+            "GO:0009055:electron transfer activity (qval6.11E-2)",
+            "GO:0016679:oxidoreductase activity, acting on diphenols and related substances as donors (qval1E0)",
+            "GO:0016681:oxidoreductase activity, acting on diphenols and related substances as donors, cytochrome as acceptor (qval1E0)",
+            "GO:0008121:ubiquinol-cytochrome-c reductase activity (qval7.9E-1)"
+        ],
+        "comp": [
+            "GO:0045275:respiratory chain complex III (qval9.07E-4)",
+            "GO:0005750:mitochondrial respiratory chain complex III (qval4.53E-4)",
+            "GO:0070069:cytochrome complex (qval1.55E-3)",
+            "GO:0070469:respiratory chain (qval7.48E-3)",
+            "GO:0098803:respiratory chain complex (qval7.87E-3)",
+            "GO:1990204:oxidoreductase complex (qval1.31E-2)",
+            "GO:0098800:inner mitochondrial membrane protein complex (qval1.73E-2)",
+            "GO:0044455:mitochondrial membrane part (qval4.76E-2)",
+            "GO:0098798:mitochondrial protein complex (qval6.31E-2)",
+            "GO:0005743:mitochondrial inner membrane (qval1.27E-1)",
+            "GO:0019866:organelle inner membrane (qval1.35E-1)"
+        ]
+    },
+    "61": {
+        "proc": [
+            "GO:0071696:ectodermal placode development (qval1E0)",
+            "GO:1902378:VEGF-activated neuropilin signaling pathway involved in axon guidance (qval5.41E-1)",
+            "GO:0061441:renal artery morphogenesis (qval3.61E-1)",
+            "GO:0150018:basal dendrite development (qval2.71E-1)",
+            "GO:0060980:cell migration involved in coronary vasculogenesis (qval2.16E-1)",
+            "GO:1905040:otic placode development (qval1.8E-1)",
+            "GO:1902946:protein localization to early endosome (qval3.09E-1)",
+            "GO:1904835:dorsal root ganglion morphogenesis (qval2.71E-1)",
+            "GO:1902336:positive regulation of retinal ganglion cell axon guidance (qval2.41E-1)",
+            "GO:0061552:ganglion morphogenesis (qval2.16E-1)",
+            "GO:0038190:VEGF-activated neuropilin signaling pathway (qval1.97E-1)",
+            "GO:0021636:trigeminal nerve morphogenesis (qval1.8E-1)",
+            "GO:0021649:vestibulocochlear nerve structural organization (qval1.67E-1)",
+            "GO:0097374:sensory neuron axon guidance (qval1.55E-1)",
+            "GO:0150020:basal dendrite arborization (qval2.16E-1)",
+            "GO:0150019:basal dendrite morphogenesis (qval2.03E-1)",
+            "GO:0038189:neuropilin signaling pathway (qval1.91E-1)",
+            "GO:0090259:regulation of retinal ganglion cell axon guidance (qval1.8E-1)",
+            "GO:1903375:facioacoustic ganglion development (qval1.71E-1)",
+            "GO:0036486:ventral trunk neural crest cell migration (qval2.16E-1)",
+            "GO:0036484:trunk neural crest cell migration (qval2.06E-1)",
+            "GO:0061551:trigeminal ganglion development (qval1.97E-1)",
+            "GO:0021856:hypothalamic tangential migration using cell-axon interactions (qval1.88E-1)",
+            "GO:0021828:gonadotrophin-releasing hormone neuronal migration to the hypothalamus (qval1.8E-1)",
+            "GO:0021824:cerebral cortex tangential migration using cell-axon interactions (qval1.73E-1)",
+            "GO:0021825:substrate-dependent cerebral cortex tangential migration (qval1.67E-1)",
+            "GO:0021637:trigeminal nerve structural organization (qval1.6E-1)",
+            "GO:0035441:cell migration involved in vasculogenesis (qval1.55E-1)",
+            "GO:0097491:sympathetic neuron projection guidance (qval1.49E-1)",
+            "GO:0097490:sympathetic neuron projection extension (qval1.44E-1)",
+            "GO:0032489:regulation of Cdc42 protein signal transduction (qval1.75E-1)",
+            "GO:0061550:cranial ganglion development (qval1.69E-1)",
+            "GO:1901166:neural crest cell migration involved in autonomic nervous system development (qval1.64E-1)",
+            "GO:0021855:hypothalamus cell migration (qval1.59E-1)",
+            "GO:0021785:branchiomotor neuron axon guidance (qval1.55E-1)",
+            "GO:0097475:motor neuron migration (qval1.5E-1)",
+            "GO:0060385:axonogenesis involved in innervation (qval1.46E-1)",
+            "GO:0060666:dichotomous subdivision of terminal units involved in salivary gland branching (qval1.42E-1)",
+            "GO:0061549:sympathetic ganglion development (qval1.67E-1)",
+            "GO:0060978:angiogenesis involved in coronary vascular morphogenesis (qval1.62E-1)",
+            "GO:1902284:neuron projection extension involved in neuron projection guidance (qval1.85E-1)",
+            "GO:0021800:cerebral cortex tangential migration (qval1.8E-1)",
+            "GO:0048842:positive regulation of axon extension involved in axon guidance (qval1.76E-1)",
+            "GO:0048846:axon extension involved in axon guidance (qval1.72E-1)",
+            "GO:0035767:endothelial cell chemotaxis (qval1.68E-1)",
+            "GO:1902669:positive regulation of axon guidance (qval1.88E-1)",
+            "GO:0006930:substrate-dependent cell migration, cell extension (qval1.84E-1)",
+            "GO:0021612:facial nerve structural organization (qval1.8E-1)",
+            "GO:0060982:coronary artery morphogenesis (qval1.77E-1)",
+            "GO:0048012:hepatocyte growth factor receptor signaling pathway (qval1.95E-1)",
+            "GO:0140059:dendrite arborization (qval1.91E-1)",
+            "GO:0048485:sympathetic nervous system development (qval1.87E-1)",
+            "GO:0060600:dichotomous subdivision of an epithelial terminal unit (qval1.84E-1)",
+            "GO:0071679:commissural neuron axon guidance (qval2E-1)",
+            "GO:1902287:semaphorin-plexin signaling pathway involved in axon guidance (qval1.97E-1)",
+            "GO:0061548:ganglion development (qval1.93E-1)",
+            "GO:0061299:retina vasculature morphogenesis in camera-type eye (qval1.9E-1)",
+            "GO:0036010:protein localization to endosome (qval1.87E-1)",
+            "GO:0021604:cranial nerve structural organization (qval1.83E-1)",
+            "GO:0021602:cranial nerve morphogenesis (qval1.8E-1)",
+            "GO:0060973:cell migration involved in heart development (qval1.77E-1)",
+            "GO:1902285:semaphorin-plexin signaling pathway involved in neuron projection guidance (qval1.92E-1)",
+            "GO:0006929:substrate-dependent cell migration (qval2.06E-1)",
+            "GO:0031290:retinal ganglion cell axon guidance (qval2.03E-1)",
+            "GO:0060977:coronary vasculature morphogenesis (qval2.16E-1)"
+        ],
+        "func": [
+            "GO:0038085:vascular endothelial growth factor binding (qval1E0)",
+            "GO:0005021:vascular endothelial growth factor-activated receptor activity (qval9.48E-1)",
+            "GO:0017154:semaphorin receptor activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0097443:sorting endosome (qval6.91E-1)",
+            "GO:0005883:neurofilament (qval5.53E-1)"
+        ]
+    },
+    "62": {
+        "proc": [
+            "GO:0015988:energy coupled proton transmembrane transport, against electrochemical gradient (qval1E0)",
+            "GO:0015990:electron transport coupled proton transport (qval1E0)",
+            "GO:0006123:mitochondrial electron transport, cytochrome c to oxygen (qval1E0)",
+            "GO:0019646:aerobic electron transport chain (qval1E0)"
+        ],
+        "func": [],
+        "comp": [
+            "GO:0045275:respiratory chain complex III (qval1E0)",
+            "GO:0005750:mitochondrial respiratory chain complex III (qval6.91E-1)",
+            "GO:0005751:mitochondrial respiratory chain complex IV (qval4.61E-1)",
+            "GO:0045277:respiratory chain complex IV (qval4.49E-1)"
+        ]
+    },
+    "63": {
+        "proc": [
+            "GO:0017014:protein nitrosylation (qval1E0)",
+            "GO:0000052:citrulline metabolic process (qval1E0)",
+            "GO:0006527:arginine catabolic process (qval1E0)",
+            "GO:1900038:negative regulation of cellular response to hypoxia (qval1E0)",
+            "GO:0006809:nitric oxide biosynthetic process (qval1E0)",
+            "GO:0006525:arginine metabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0016403:dimethylargininase activity (qval6.32E-1)",
+            "GO:0016813:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines (qval1E0)"
+        ],
+        "comp": []
+    },
+    "64": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "65": {
+        "proc": [
+            "GO:1903281:positive regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:1903408:positive regulation of sodium:potassium-exchanging ATPase activity (qval1E0)",
+            "GO:1903279:regulation of calcium:sodium antiporter activity (qval1E0)",
+            "GO:1903406:regulation of sodium:potassium-exchanging ATPase activity (qval1E0)",
+            "GO:1903278:positive regulation of sodium ion export across plasma membrane (qval1E0)",
+            "GO:0005981:regulation of glycogen catabolic process (qval1E0)",
+            "GO:1903276:regulation of sodium ion export across plasma membrane (qval1E0)",
+            "GO:1903288:positive regulation of potassium ion import (qval1E0)"
+        ],
+        "func": [
+            "GO:0050115:myosin-light-chain-phosphatase activity (qval6.32E-1)"
+        ],
+        "comp": [
+            "GO:0072357:PTW/PP1 phosphatase complex (qval1E0)",
+            "GO:0005890:sodium:potassium-exchanging ATPase complex (qval8.29E-1)"
+        ]
+    },
+    "66": {
+        "proc": [
+            "GO:0006091:generation of precursor metabolites and energy (qval1E0)",
+            "GO:0055114:oxidation-reduction process (qval1E0)",
+            "GO:0015988:energy coupled proton transmembrane transport, against electrochemical gradient (qval1E0)",
+            "GO:0015990:electron transport coupled proton transport (qval1E0)"
+        ],
+        "func": [
+            "GO:0016679:oxidoreductase activity, acting on diphenols and related substances as donors (qval1E0)",
+            "GO:0016681:oxidoreductase activity, acting on diphenols and related substances as donors, cytochrome as acceptor (qval1E0)",
+            "GO:0008121:ubiquinol-cytochrome-c reductase activity (qval1E0)"
+        ],
+        "comp": [
+            "GO:0070469:respiratory chain (qval2.99E-2)",
+            "GO:0098803:respiratory chain complex (qval1.97E-2)",
+            "GO:1990204:oxidoreductase complex (qval2.63E-2)",
+            "GO:0098800:inner mitochondrial membrane protein complex (qval3.02E-2)",
+            "GO:0044455:mitochondrial membrane part (qval7.62E-2)",
+            "GO:0098798:mitochondrial protein complex (qval9.47E-2)",
+            "GO:0005743:mitochondrial inner membrane (qval1.82E-1)",
+            "GO:0019866:organelle inner membrane (qval1.85E-1)"
+        ]
+    },
+    "67": {
+        "proc": [
+            "GO:0070948:regulation of neutrophil mediated cytotoxicity (qval1E0)",
+            "GO:0002283:neutrophil activation involved in immune response (qval1E0)",
+            "GO:0000737:DNA catabolic process, endonucleolytic (qval1E0)"
+        ],
+        "func": [
+            "GO:0004530:deoxyribonuclease I activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "68": {
+        "proc": [
+            "GO:1901655:cellular response to ketone (qval3.38E-1)",
+            "GO:0048545:response to steroid hormone (qval3.37E-1)",
+            "GO:1901654:response to ketone (qval2.35E-1)",
+            "GO:2000866:positive regulation of estradiol secretion (qval5.41E-1)",
+            "GO:0032870:cellular response to hormone stimulus (qval6.09E-1)",
+            "GO:0016042:lipid catabolic process (qval5.66E-1)",
+            "GO:2000864:regulation of estradiol secretion (qval6.18E-1)",
+            "GO:0043382:positive regulation of memory T cell differentiation (qval5.41E-1)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval4.81E-1)",
+            "GO:0019543:propionate catabolic process (qval4.33E-1)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval3.94E-1)",
+            "GO:0071407:cellular response to organic cyclic compound (qval3.99E-1)",
+            "GO:0031667:response to nutrient levels (qval4.18E-1)",
+            "GO:0071396:cellular response to lipid (qval4.06E-1)",
+            "GO:0009991:response to extracellular stimulus (qval4.25E-1)",
+            "GO:0034418:urate biosynthetic process (qval4.06E-1)",
+            "GO:0006710:androgen catabolic process (qval3.82E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval3.61E-1)",
+            "GO:0043380:regulation of memory T cell differentiation (qval4.56E-1)",
+            "GO:0006114:glycerol biosynthetic process (qval4.33E-1)",
+            "GO:0019541:propionate metabolic process (qval4.12E-1)",
+            "GO:0009725:response to hormone (qval4.84E-1)",
+            "GO:0071394:cellular response to testosterone stimulus (qval4.71E-1)",
+            "GO:0019401:alditol biosynthetic process (qval4.51E-1)",
+            "GO:0045785:positive regulation of cell adhesion (qval4.59E-1)",
+            "GO:0033280:response to vitamin D (qval4.99E-1)",
+            "GO:0019626:short-chain fatty acid catabolic process (qval4.81E-1)",
+            "GO:0014070:response to organic cyclic compound (qval5.03E-1)",
+            "GO:0044283:small molecule biosynthetic process (qval4.85E-1)"
+        ],
+        "func": [
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval1E0)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval6.32E-1)"
+        ],
+        "comp": []
+    },
+    "69": {
+        "proc": [
+            "GO:2001199:negative regulation of dendritic cell differentiation (qval1E0)",
+            "GO:2001198:regulation of dendritic cell differentiation (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "70": {
+        "proc": [
+            "GO:0009725:response to hormone (qval2.84E-1)",
+            "GO:0044283:small molecule biosynthetic process (qval2.16E-1)",
+            "GO:0006090:pyruvate metabolic process (qval2.25E-1)",
+            "GO:1901655:cellular response to ketone (qval2.53E-1)",
+            "GO:0009719:response to endogenous stimulus (qval3.58E-1)",
+            "GO:0048545:response to steroid hormone (qval3.36E-1)",
+            "GO:0006082:organic acid metabolic process (qval2.97E-1)",
+            "GO:1901654:response to ketone (qval2.63E-1)",
+            "GO:0019318:hexose metabolic process (qval3.02E-1)",
+            "GO:2000866:positive regulation of estradiol secretion (qval3.25E-1)",
+            "GO:0005996:monosaccharide metabolic process (qval3.26E-1)",
+            "GO:1901700:response to oxygen-containing compound (qval3.74E-1)",
+            "GO:0072522:purine-containing compound biosynthetic process (qval3.67E-1)",
+            "GO:2000864:regulation of estradiol secretion (qval4.64E-1)",
+            "GO:0043382:positive regulation of memory T cell differentiation (qval4.33E-1)",
+            "GO:0061402:positive regulation of transcription from RNA polymerase II promoter in response to acidic pH (qval4.06E-1)",
+            "GO:0019543:propionate catabolic process (qval3.82E-1)",
+            "GO:0046327:glycerol biosynthetic process from pyruvate (qval3.61E-1)",
+            "GO:0043434:response to peptide hormone (qval4.07E-1)",
+            "GO:0032870:cellular response to hormone stimulus (qval4.52E-1)",
+            "GO:1901575:organic substance catabolic process (qval4.45E-1)",
+            "GO:0034418:urate biosynthetic process (qval4.43E-1)",
+            "GO:0006710:androgen catabolic process (qval4.23E-1)",
+            "GO:0006001:fructose catabolic process (qval4.06E-1)",
+            "GO:0061625:glycolytic process through fructose-1-phosphate (qval3.9E-1)",
+            "GO:0061624:fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate (qval3.75E-1)",
+            "GO:0051365:cellular response to potassium ion starvation (qval3.61E-1)",
+            "GO:0016042:lipid catabolic process (qval3.6E-1)",
+            "GO:0044281:small molecule metabolic process (qval3.93E-1)",
+            "GO:0043380:regulation of memory T cell differentiation (qval4.33E-1)",
+            "GO:0006114:glycerol biosynthetic process (qval4.19E-1)",
+            "GO:0019541:propionate metabolic process (qval4.06E-1)",
+            "GO:1901652:response to peptide (qval4.1E-1)",
+            "GO:0071407:cellular response to organic cyclic compound (qval4.18E-1)"
+        ],
+        "func": [
+            "GO:0016830:carbon-carbon lyase activity (qval1.3E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval4.74E-1)",
+            "GO:0016829:lyase activity (qval5.89E-1)",
+            "GO:0004611:phosphoenolpyruvate carboxykinase activity (qval4.74E-1)",
+            "GO:0004613:phosphoenolpyruvate carboxykinase (GTP) activity (qval3.79E-1)",
+            "GO:0004332:fructose-bisphosphate aldolase activity (qval6.32E-1)"
+        ],
+        "comp": [
+            "GO:0030867:rough endoplasmic reticulum membrane (qval1E0)"
+        ]
+    },
+    "71": {
+        "proc": [
+            "GO:0006811:ion transport (qval1E0)",
+            "GO:0015672:monovalent inorganic cation transport (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "72": {
+        "proc": [
+            "GO:0032781:positive regulation of ATPase activity (qval1.05E-1)",
+            "GO:0043462:regulation of ATPase activity (qval1.13E-1)",
+            "GO:0046034:ATP metabolic process (qval2.45E-1)",
+            "GO:0009205:purine ribonucleoside triphosphate metabolic process (qval2.82E-1)",
+            "GO:0009199:ribonucleoside triphosphate metabolic process (qval2.37E-1)",
+            "GO:0009126:purine nucleoside monophosphate metabolic process (qval2.07E-1)",
+            "GO:0009144:purine nucleoside triphosphate metabolic process (qval1.77E-1)",
+            "GO:0009167:purine ribonucleoside monophosphate metabolic process (qval1.55E-1)",
+            "GO:0009141:nucleoside triphosphate metabolic process (qval1.66E-1)",
+            "GO:0009161:ribonucleoside monophosphate metabolic process (qval1.49E-1)",
+            "GO:0009123:nucleoside monophosphate metabolic process (qval1.5E-1)",
+            "GO:1903281:positive regulation of calcium:sodium antiporter activity (qval3.61E-1)",
+            "GO:1903408:positive regulation of sodium:potassium-exchanging ATPase activity (qval3.33E-1)",
+            "GO:0009150:purine ribonucleotide metabolic process (qval3.65E-1)",
+            "GO:0006163:purine nucleotide metabolic process (qval3.76E-1)",
+            "GO:0009259:ribonucleotide metabolic process (qval3.66E-1)",
+            "GO:0006001:fructose catabolic process (qval3.82E-1)",
+            "GO:0061625:glycolytic process through fructose-1-phosphate (qval3.61E-1)",
+            "GO:0061624:fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate (qval3.42E-1)",
+            "GO:1903279:regulation of calcium:sodium antiporter activity (qval3.25E-1)",
+            "GO:1903406:regulation of sodium:potassium-exchanging ATPase activity (qval3.09E-1)",
+            "GO:0019693:ribose phosphate metabolic process (qval2.96E-1)",
+            "GO:0072521:purine-containing compound metabolic process (qval3.05E-1)",
+            "GO:1903278:positive regulation of sodium ion export across plasma membrane (qval3.61E-1)",
+            "GO:0070072:vacuolar proton-transporting V-type ATPase complex assembly (qval4.33E-1)",
+            "GO:1903276:regulation of sodium ion export across plasma membrane (qval4.16E-1)",
+            "GO:0009117:nucleotide metabolic process (qval4.03E-1)",
+            "GO:0006753:nucleoside phosphate metabolic process (qval4.01E-1)",
+            "GO:0017144:drug metabolic process (qval4.06E-1)",
+            "GO:0006116:NADH oxidation (qval4.33E-1)",
+            "GO:1903288:positive regulation of potassium ion import (qval4.19E-1)",
+            "GO:0055086:nucleobase-containing small molecule metabolic process (qval4.46E-1)"
+        ],
+        "func": [
+            "GO:0051117:ATPase binding (qval1.53E-1)",
+            "GO:0061609:fructose-1-phosphate aldolase activity (qval3.16E-1)",
+            "GO:0004332:fructose-bisphosphate aldolase activity (qval8.43E-1)",
+            "GO:0070061:fructose binding (qval7.9E-1)"
+        ],
+        "comp": [
+            "GO:0030867:rough endoplasmic reticulum membrane (qval8.3E-1)",
+            "GO:0030868:smooth endoplasmic reticulum membrane (qval6.91E-1)",
+            "GO:0097425:smooth endoplasmic reticulum part (qval4.61E-1)",
+            "GO:0005890:sodium:potassium-exchanging ATPase complex (qval4.15E-1)"
+        ]
+    },
+    "73": {
+        "proc": [
+            "GO:0071712:ER-associated misfolded protein catabolic process (qval1E0)"
+        ],
+        "func": [
+            "GO:0004169:dolichyl-phosphate-mannose-protein mannosyltransferase activity (qval1E0)"
+        ],
+        "comp": []
+    },
+    "74": {
+        "proc": [],
+        "func": [],
+        "comp": [
+            "GO:0045095:keratin filament (qval1E0)"
+        ]
+    }
+}

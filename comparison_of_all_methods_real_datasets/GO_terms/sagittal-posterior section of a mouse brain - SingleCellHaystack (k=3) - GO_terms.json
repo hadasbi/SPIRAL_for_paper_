@@ -1,0 +1,33 @@
+{
+    "0": {
+        "proc": [
+            "GO:0002586:regulation of antigen processing and presentation of peptide antigen via MHC class II (qval1E0)",
+            "GO:0016441:posttranscriptional gene silencing (qval1E0)",
+            "GO:0006879:cellular iron ion homeostasis (qval1E0)",
+            "GO:0034433:steroid esterification (qval1E0)",
+            "GO:0034434:sterol esterification (qval1E0)",
+            "GO:0034435:cholesterol esterification (qval1E0)",
+            "GO:0002580:regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II (qval1E0)",
+            "GO:0015691:cadmium ion transport (qval1E0)",
+            "GO:0070574:cadmium ion transmembrane transport (qval9.92E-1)",
+            "GO:0045717:negative regulation of fatty acid biosynthetic process (qval9.88E-1)",
+            "GO:0046929:negative regulation of neurotransmitter secretion (qval1E0)"
+        ],
+        "func": [],
+        "comp": []
+    },
+    "1": {
+        "proc": [],
+        "func": [],
+        "comp": []
+    },
+    "2": {
+        "proc": [
+            "GO:0002250:adaptive immune response (qval1E0)"
+        ],
+        "func": [
+            "GO:0055102:lipase inhibitor activity (qval1E0)"
+        ],
+        "comp": []
+    }
+}

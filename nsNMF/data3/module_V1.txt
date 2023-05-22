@@ -1,0 +1,1 @@
+hsp90ab1, nup160, eef2b, btf3, h2afy2, si:dkey-159f12.2, rpl35, psma1, rpl7a, serbp1a, rpl13, tpt1, atf4b1, atf4a, rps27a, eif3k, nr2f5, fkbp1aa, rps23, rpl39, psmb6, ran, rpl35a, rpl23, rps15, LOC103908996, cct2, rps19, eef1db, LOC101885203, pin1, psmb2, rps16, atp5l, wu:fb52c12, slc25a3b

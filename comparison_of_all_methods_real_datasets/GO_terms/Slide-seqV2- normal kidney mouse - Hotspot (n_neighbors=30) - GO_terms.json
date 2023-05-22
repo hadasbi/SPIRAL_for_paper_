@@ -1,0 +1,90 @@
+{
+    "1": {
+        "proc": [
+            "GO:0007588:excretion (qval6.89E-2)",
+            "GO:0048878:chemical homeostasis (qval1.3E-1)",
+            "GO:0006820:anion transport (qval9.22E-2)",
+            "GO:0006811:ion transport (qval8.93E-2)",
+            "GO:0006629:lipid metabolic process (qval8.94E-2)",
+            "GO:0006749:glutathione metabolic process (qval1.12E-1)",
+            "GO:0006082:organic acid metabolic process (qval1.48E-1)",
+            "GO:0006575:cellular modified amino acid metabolic process (qval1.31E-1)",
+            "GO:0072330:monocarboxylic acid biosynthetic process (qval1.3E-1)",
+            "GO:0015711:organic anion transport (qval1.29E-1)",
+            "GO:0006699:bile acid biosynthetic process (qval1.8E-1)",
+            "GO:0050801:ion homeostasis (qval2.3E-1)",
+            "GO:0042592:homeostatic process (qval2.51E-1)",
+            "GO:0003008:system process (qval2.47E-1)",
+            "GO:0032787:monocarboxylic acid metabolic process (qval2.38E-1)",
+            "GO:0008610:lipid biosynthetic process (qval2.41E-1)",
+            "GO:0008206:bile acid metabolic process (qval2.86E-1)",
+            "GO:0015980:energy derivation by oxidation of organic compounds (qval2.95E-1)",
+            "GO:0019752:carboxylic acid metabolic process (qval2.92E-1)",
+            "GO:0046394:carboxylic acid biosynthetic process (qval2.9E-1)",
+            "GO:0016053:organic acid biosynthetic process (qval2.81E-1)",
+            "GO:0055065:metal ion homeostasis (qval3.02E-1)",
+            "GO:0055064:chloride ion homeostasis (qval2.94E-1)",
+            "GO:0006790:sulfur compound metabolic process (qval3.05E-1)",
+            "GO:0043436:oxoacid metabolic process (qval2.98E-1)",
+            "GO:0055114:oxidation-reduction process (qval3.39E-1)",
+            "GO:0006631:fatty acid metabolic process (qval3.57E-1)",
+            "GO:0055075:potassium ion homeostasis (qval3.5E-1)",
+            "GO:0055078:sodium ion homeostasis (qval3.97E-1)",
+            "GO:0006810:transport (qval3.87E-1)",
+            "GO:0055080:cation homeostasis (qval4.2E-1)",
+            "GO:0009060:aerobic respiration (qval4.18E-1)",
+            "GO:0098771:inorganic ion homeostasis (qval4.4E-1)"
+        ],
+        "func": [
+            "GO:0016491:oxidoreductase activity (qval9.36E-1)",
+            "GO:0015645:fatty acid ligase activity (qval7.07E-1)",
+            "GO:0016405:CoA-ligase activity (qval7.25E-1)",
+            "GO:0008509:anion transmembrane transporter activity (qval6.12E-1)",
+            "GO:0016878:acid-thiol ligase activity (qval5.7E-1)",
+            "GO:0003954:NADH dehydrogenase activity (qval4.75E-1)"
+        ],
+        "comp": [
+            "GO:0005777:peroxisome (qval6.36E-2)",
+            "GO:0042579:microbody (qval3.87E-2)",
+            "GO:0070013:intracellular organelle lumen (qval6.95E-2)",
+            "GO:0043233:organelle lumen (qval5.29E-2)",
+            "GO:0031974:membrane-enclosed lumen (qval4.23E-2)",
+            "GO:0005576:extracellular region (qval7.66E-2)"
+        ]
+    },
+    "2": {
+        "proc": [
+            "GO:0099587:inorganic ion import across plasma membrane (qval4.02E-3)",
+            "GO:0098659:inorganic cation import across plasma membrane (qval2.01E-3)",
+            "GO:0035725:sodium ion transmembrane transport (qval1.34E-3)",
+            "GO:0098719:sodium ion import across plasma membrane (qval1.63E-3)",
+            "GO:0098739:import across plasma membrane (qval7.33E-3)",
+            "GO:0006814:sodium ion transport (qval9.11E-3)",
+            "GO:0046689:response to mercury ion (qval6.26E-2)",
+            "GO:0015672:monovalent inorganic cation transport (qval1.38E-1)",
+            "GO:0098662:inorganic cation transmembrane transport (qval3.1E-1)",
+            "GO:0098655:cation transmembrane transport (qval3.9E-1)",
+            "GO:0098660:inorganic ion transmembrane transport (qval3.81E-1)",
+            "GO:0055078:sodium ion homeostasis (qval4.19E-1)",
+            "GO:0055083:monovalent inorganic anion homeostasis (qval5.17E-1)",
+            "GO:0030001:metal ion transport (qval6.5E-1)",
+            "GO:0098657:import into cell (qval8.24E-1)",
+            "GO:0034220:ion transmembrane transport (qval8.21E-1)"
+        ],
+        "func": [
+            "GO:0015081:sodium ion transmembrane transporter activity (qval1.07E-2)",
+            "GO:0005499:vitamin D binding (qval3.42E-2)",
+            "GO:0015370:solute:sodium symporter activity (qval2.66E-2)",
+            "GO:0015291:secondary active transmembrane transporter activity (qval2.81E-2)",
+            "GO:0015294:solute:cation symporter activity (qval4.22E-2)",
+            "GO:0005496:steroid binding (qval5.08E-2)",
+            "GO:0015077:monovalent inorganic cation transmembrane transporter activity (qval5.71E-2)",
+            "GO:0022804:active transmembrane transporter activity (qval8.14E-2)",
+            "GO:0015293:symporter activity (qval7.98E-2)",
+            "GO:0046873:metal ion transmembrane transporter activity (qval7.38E-2)",
+            "GO:0022890:inorganic cation transmembrane transporter activity (qval2.01E-1)",
+            "GO:0008324:cation transmembrane transporter activity (qval2.76E-1)"
+        ],
+        "comp": []
+    }
+}
