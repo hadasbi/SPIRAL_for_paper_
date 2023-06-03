@@ -1,39 +1,23 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
-
-
 import os
-import sys
-import hotspot
-import anndata
 import numpy as np
 import pandas as pd
-import hotspot
-import matplotlib.pyplot as plt
-import matplotlib.colors
-import seaborn as sns
-import mplscience
-from scipy.io import mmread
-from scipy.sparse import csr_matrix, csc_matrix
-import scanpy as sc
 import warnings; warnings.simplefilter('ignore')
-import pickle5 as pickle
+import pickle
 import mechanicalsoup
 from time import time, sleep
 import re
 from datetime import datetime
 import json
-import itertools
-from random import random
 
 
 def method_in_2_lines(method):
     return method.replace(' (', '\n(')
 
 
-ANALYSIS_FOLDER = "../SPIRAL_webtool/static/analysis/"
+ANALYSIS_FOLDER = "../SPIRAL.web.tool/static/analysis/"
 def filter_struct_lst_for_result_panel(data_n, new_Jaccard_thr_genes):
     # produces a list of structures, in which there is no pair of structures with Jaccard index larger than
     # Jaccard_thr_genes. The function relies on the fact that the structure numbers are
@@ -72,7 +56,7 @@ def get_GO_terms(gorilla_url, impute_method, species, background_list, geneslist
     #print('target_list:', target_list)
 
     browser = mechanicalsoup.StatefulBrowser()
-    browser.open(gorilla_url)
+    browser.open(gorilla_url, verify=False)
 
     browser.select_form()
 
@@ -117,14 +101,14 @@ def get_GO_terms(gorilla_url, impute_method, species, background_list, geneslist
 
     sleep(10)
     browser = mechanicalsoup.StatefulBrowser()
-    browser.open(new_link)
+    browser.open(new_link, verify=False)
     new_link2 = browser.get_url()
 
     c = 0
     while ("GOResults" not in new_link2) and (c < 10):
         sleep(3)
         browser = mechanicalsoup.StatefulBrowser()
-        browser.open(new_link)
+        browser.open(new_link, verify=False)
         new_link2 = browser.get_url()
         c += 1
     if ("GOResults" not in new_link2):
@@ -183,7 +167,7 @@ dataset_dict[21] = 'Slide-seqV2- normal kidney mouse'
 dataset_type[21] = 'spatial'
 
 for data_n in range(61, 81):
-    f = open("../SPIRAL_webtool/static/analysis/data" + str(data_n) + "/dataset_name.txt", 'r')
+    f = open("../SPIRAL.web.tool/static/analysis/data" + str(data_n) + "/dataset_name.txt", 'r')
     name = f.readlines()[0]
     #print(name)
     f.close()
@@ -222,7 +206,7 @@ methods_dict = {'single cell': ['SPIRAL (Jaccard index=0.05)',
                         'nsNMF']}
 
 
-out_folder = "../SPIRAL_for_paper/comparison_of_all_methods_real_datasets/GO_terms/"
+out_folder = "../SPIRAL_for_paper_/comparison_of_all_methods_real_datasets/GO_terms/"
 if not os.path.exists(out_folder):
     os.mkdir(out_folder)
 
@@ -240,7 +224,7 @@ for data_n in dataset_dict.keys():
         outfile = os.path.join(out_folder, dataset + ' - ' + method + ' - GO_terms.json')
         if not os.path.exists(outfile):
             try:
-                data_path = "../SPIRAL_webtool/static/analysis/data" + str(data_n)
+                data_path = "../SPIRAL.web.tool/static/analysis/data" + str(data_n)
                 species = open(os.path.join(data_path, 'species.txt'), "r").read()
                 impute_method = open(os.path.join(data_path, 'imputation_method.txt'), "r").read()
 
@@ -359,7 +343,11 @@ for data_n in dataset_dict.keys():
                     cluster_table = method_cluster_table
                     for clus_ind, clus in enumerate(cluster_table.index):
                         # read cluster gene list
-                        geneslist = cluster_table.loc[clus, 'genes'].replace("['", "").replace("']", "").split("', '")
+                        if method == 'nsNMF' and data_n in range(20, 81):
+                            geneslist = cluster_table.loc[clus, 'genes'].split(", ")
+                        else:
+                            geneslist = cluster_table.loc[clus, 'genes'].replace("['", "").replace("']", "").split("', '")
+                        print(clus, geneslist)
                         GO_terms[clus] = get_GO_terms(
                             gorilla_url, impute_method, species, background_list, geneslist)
 

@@ -17,8 +17,8 @@
             "GO:0030054:cell junction (qval5.05E-3)",
             "GO:0044450:microtubule organizing center part (qval6.17E-2)",
             "GO:0016281:eukaryotic translation initiation factor 4F complex (qval1.36E-1)",
-            "GO:0034518:RNA cap binding complex (qval1.71E-1)",
-            "GO:0005845:mRNA cap binding complex (qval1.43E-1)",
+            "GO:0005845:mRNA cap binding complex (qval1.71E-1)",
+            "GO:0034518:RNA cap binding complex (qval1.43E-1)",
             "GO:0034451:centriolar satellite (qval1.46E-1)",
             "GO:0120103:centriolar subdistal appendage (qval1.58E-1)"
         ]
@@ -98,13 +98,13 @@
     },
     "6": {
         "proc": [
-            "GO:0030643:cellular phosphate ion homeostasis (qval1E0)",
+            "GO:0072502:cellular trivalent inorganic anion homeostasis (qval1E0)",
             "GO:0072501:cellular divalent inorganic anion homeostasis (qval9.07E-1)",
-            "GO:0072502:cellular trivalent inorganic anion homeostasis (qval6.04E-1)",
+            "GO:0030643:cellular phosphate ion homeostasis (qval6.04E-1)",
             "GO:0098661:inorganic anion transmembrane transport (qval4.64E-1)",
-            "GO:0055062:phosphate ion homeostasis (qval7.09E-1)",
+            "GO:0072506:trivalent inorganic anion homeostasis (qval7.09E-1)",
             "GO:0072505:divalent inorganic anion homeostasis (qval5.91E-1)",
-            "GO:0072506:trivalent inorganic anion homeostasis (qval5.07E-1)",
+            "GO:0055062:phosphate ion homeostasis (qval5.07E-1)",
             "GO:0035435:phosphate ion transmembrane transport (qval5.31E-1)",
             "GO:0006817:phosphate ion transport (qval5.57E-1)",
             "GO:0030320:cellular monovalent inorganic anion homeostasis (qval1E0)",
@@ -131,8 +131,8 @@
     "8": {
         "proc": [
             "GO:1902600:proton transmembrane transport (qval1.23E-4)",
-            "GO:0015985:energy coupled proton transport, down electrochemical gradient (qval5.99E-4)",
-            "GO:0015986:ATP synthesis coupled proton transport (qval3.99E-4)",
+            "GO:0015986:ATP synthesis coupled proton transport (qval5.99E-4)",
+            "GO:0015985:energy coupled proton transport, down electrochemical gradient (qval3.99E-4)",
             "GO:0044281:small molecule metabolic process (qval2.7E-3)",
             "GO:0017144:drug metabolic process (qval3.03E-3)",
             "GO:0015672:monovalent inorganic cation transport (qval8.07E-3)",
@@ -141,8 +141,8 @@
             "GO:0009205:purine ribonucleoside triphosphate metabolic process (qval2.9E-2)",
             "GO:0009199:ribonucleoside triphosphate metabolic process (qval2.97E-2)",
             "GO:0009126:purine nucleoside monophosphate metabolic process (qval3.18E-2)",
-            "GO:0009144:purine nucleoside triphosphate metabolic process (qval2.91E-2)",
-            "GO:0009167:purine ribonucleoside monophosphate metabolic process (qval2.69E-2)",
+            "GO:0009167:purine ribonucleoside monophosphate metabolic process (qval2.91E-2)",
+            "GO:0009144:purine nucleoside triphosphate metabolic process (qval2.69E-2)",
             "GO:0009206:purine ribonucleoside triphosphate biosynthetic process (qval3.17E-2)",
             "GO:0009145:purine nucleoside triphosphate biosynthetic process (qval3.15E-2)",
             "GO:0009201:ribonucleoside triphosphate biosynthetic process (qval3.34E-2)",
@@ -178,16 +178,16 @@
             "GO:1901362:organic cyclic compound biosynthetic process (qval2.54E-1)",
             "GO:0006163:purine nucleotide metabolic process (qval2.72E-1)",
             "GO:0009259:ribonucleotide metabolic process (qval2.9E-1)",
-            "GO:0006119:oxidative phosphorylation (qval2.9E-1)",
-            "GO:0006120:mitochondrial electron transport, NADH to ubiquinone (qval2.84E-1)"
+            "GO:0006120:mitochondrial electron transport, NADH to ubiquinone (qval2.9E-1)",
+            "GO:0006119:oxidative phosphorylation (qval2.84E-1)"
         ],
         "func": [
             "GO:0015078:proton transmembrane transporter activity (qval1.92E-5)",
             "GO:0046933:proton-transporting ATP synthase activity, rotational mechanism (qval4.25E-5)",
             "GO:0044769:ATPase activity, coupled to transmembrane movement of ions, rotational mechanism (qval3.06E-5)",
-            "GO:0022853:active ion transmembrane transporter activity (qval2.66E-4)",
+            "GO:0019829:cation-transporting ATPase activity (qval2.66E-4)",
             "GO:0042625:ATPase coupled ion transmembrane transporter activity (qval2.13E-4)",
-            "GO:0019829:cation-transporting ATPase activity (qval1.77E-4)",
+            "GO:0022853:active ion transmembrane transporter activity (qval1.77E-4)",
             "GO:0036442:proton-exporting ATPase activity (qval5.33E-4)",
             "GO:0015077:monovalent inorganic cation transmembrane transporter activity (qval2.55E-3)",
             "GO:0042626:ATPase activity, coupled to transmembrane movement of substances (qval3.26E-3)",
@@ -209,8 +209,8 @@
         ],
         "comp": [
             "GO:0033178:proton-transporting two-sector ATPase complex, catalytic domain (qval3.8E-7)",
-            "GO:0000275:mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) (qval2.14E-4)",
-            "GO:0045261:proton-transporting ATP synthase complex, catalytic core F(1) (qval1.43E-4)",
+            "GO:0045261:proton-transporting ATP synthase complex, catalytic core F(1) (qval2.14E-4)",
+            "GO:0000275:mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) (qval1.43E-4)",
             "GO:0098800:inner mitochondrial membrane protein complex (qval2.93E-4)",
             "GO:0044455:mitochondrial membrane part (qval4.47E-4)",
             "GO:0005739:mitochondrion (qval5.02E-4)",
