@@ -21,7 +21,7 @@
 
 ## Description of files
 - 001a_compare_all_methods_to_ground_truth_of_Splatter_dataset.py + 001b_compare_all_methods_to_ground_truth_of_Splatter_dataset.ipynb - code to run methods comparison for synthetic data (Figure 2)
-- 002_run_GOrilla_on_gene_clusters_of_methods.py - find enriched GO terms for the gene modules of all benchmark methods and SPIRAL (for all real datasets)
+- 002_run_GOrilla_on_gene_clusters_of_methods.py - find enriched GO terms for the gene modules of all benchmark methods and SPIRAL (for all real datasets).
 - 003_compare_GO_terms - compare GO terms between methods. The code uses accessory files: fb.gpad, goa_human.gpad, mgi.gpad, zfin.gpad, go-basic.obo.
 - 004_compare_gene_module_sizes - compare gene module sizes between methods
 - 005_compare_overall_number_of_participating_genes - compare overall number of participating genes between methods (not in the paper)
