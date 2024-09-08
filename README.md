@@ -3,13 +3,13 @@
  
  SPIRAL: Significant Process InfeRence ALgorithm for single cell RNA-sequencing and spatial transcriptomics\ Hadas Biran, Tamar Hashimshony, Tamar Lahav, Or Efrat, Yael Mandel-Gutfreund and Zohar Yakhini.
 
-## Description of zip file
- - SPIRAL_simulated_synthetic_data.zip: includes:
+## Zipped synthetic data
+ - The file SPIRAL_simulated_synthetic_data.zip includes:
    * run_splatter.R - code to create synthetic datasets.
    * 01_analysis_of_Splatter_data.ipynb - basic analysis of synthetic dataset, and creation of the true cluster table.
    * data51, data52, ..., data60: folders of synthetic datasets (10 repetitions).
 
-## Description of folders
+## Folders
  - comparison_of_all_methods_real_datasets: related to Figures 3b, 3c, 4c, 4d, 5b, 6b, 7b.
  - comparison_of_all_methods_to_ground_truth_of_Splatter_dataset: related to Figures 2b, 2c.
  - Hotspot: Hotspot output for relevant datasets (see datasets numbering below).
@@ -19,7 +19,7 @@
  - Slingshot: Slingshot output for relevant datasets (see datasets numbering below).
  - SpatialDE: SpatialDE output for relevant datasets (see datasets numbering below).
 
-## Description of code files
+## Code files
 - 001a_compare_all_methods_to_ground_truth_of_Splatter_dataset.py + 001b_compare_all_methods_to_ground_truth_of_Splatter_dataset.ipynb - run methods comparison for synthetic data (Figure 2)
 - 002_run_GOrilla_on_gene_clusters_of_methods.py - find enriched GO terms for the gene modules of all benchmark methods and SPIRAL (for all real datasets).
 - 003_compare_GO_terms - compare GO terms between methods. The code uses accessory files: fb.gpad, goa_human.gpad, mgi.gpad, zfin.gpad, go-basic.obo.
