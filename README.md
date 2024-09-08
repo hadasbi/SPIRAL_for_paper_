@@ -19,19 +19,19 @@
  - Slingshot: Slingshot output for relevant datasets (see datasets numbering below).
  - SpatialDE: SpatialDE output for relevant datasets (see datasets numbering below).
 
-## Description of files
-- 001a_compare_all_methods_to_ground_truth_of_Splatter_dataset.py + 001b_compare_all_methods_to_ground_truth_of_Splatter_dataset.ipynb - code to run methods comparison for synthetic data (Figure 2)
+## Description of code files
+- 001a_compare_all_methods_to_ground_truth_of_Splatter_dataset.py + 001b_compare_all_methods_to_ground_truth_of_Splatter_dataset.ipynb - run methods comparison for synthetic data (Figure 2)
 - 002_run_GOrilla_on_gene_clusters_of_methods.py - find enriched GO terms for the gene modules of all benchmark methods and SPIRAL (for all real datasets).
 - 003_compare_GO_terms - compare GO terms between methods. The code uses accessory files: fb.gpad, goa_human.gpad, mgi.gpad, zfin.gpad, go-basic.obo.
 - 004_compare_gene_module_sizes - compare gene module sizes between methods
 - 005_compare_overall_number_of_participating_genes - compare overall number of participating genes between methods (not in the paper)
-- run_hotspot.py - code to run Hotspot
-- run_SpatialDE.py - code to run SpatialDE
-- create_Seurat_objects_and_find_DE_genes.R - code to tun Seurat
-- run_singleCellHaystack_on_Single_cell_RNAseq.R - code to run singleCellHaystack on single cell data
-- run_singleCellHaystack_on_spatial_data.R - code to run singleCellHaystack on spatial data
-- run_slingshot_tradeseq.R - code to run slingshot+tradeseq
-- use_nsNMF_to_find_gene_modules.R - code to run nsNMF
+- run_hotspot.py
+- run_SpatialDE.py
+- create_Seurat_objects_and_find_DE_genes.R
+- run_singleCellHaystack_on_Single_cell_RNAseq.R
+- run_singleCellHaystack_on_spatial_data.R
+- run_slingshot_tradeseq.R
+- use_nsNMF_to_find_gene_modules.R
 
 ## Datasets numbering:
 - data1: single-cell RNAseq dataset of lymphoblastoid cells (Figure 3)
