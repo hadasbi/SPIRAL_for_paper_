@@ -5,8 +5,8 @@
 
 ## Description of zip file
  - SPIRAL_simulated_synthetic_data.zip: includes:
-   * run_splatter.R: code to create synthetic datasets.
-   * 01_analysis_of_Splatter_data.ipynb: basic analysis of synthetic dataset, and creation of the true cluster table.
+   * run_splatter.R - code to create synthetic datasets.
+   * 01_analysis_of_Splatter_data.ipynb - basic analysis of synthetic dataset, and creation of the true cluster table.
    * data51, data52, ..., data60: folders of synthetic datasets (10 repetitions).
 
 ## Description of folders
