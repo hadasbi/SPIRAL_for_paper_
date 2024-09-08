@@ -33,7 +33,7 @@
 - run_slingshot_tradeseq.R
 - use_nsNMF_to_find_gene_modules.R
 
-## Datasets numbering:
+## Datasets numbering
 - data1: single-cell RNAseq dataset of lymphoblastoid cells (Figure 3)
 - data2: spatial transcriptomics dataset (Visium) of a mouse brain (Figure 5)
 - data3: single cell dataset of Zebrafish differentiation (Figure 4)
